@@ -2,7 +2,7 @@
 title: Modding Tools
 description: 
 published: true
-date: 2025-01-29T22:04:42.498Z
+date: 2025-01-29T22:27:30.057Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:13:39.459Z
@@ -40,13 +40,13 @@ dateCreated: 2025-01-23T20:13:39.459Z
 
 {.links-list}
 
-
+![screenshot_2025-01-29_142638.png](/screenshot_2025-01-29_142638.png)
 
 -   [BW Restool *Resource archive packer and unpacker for Battalion Wars 1 and 2*](https://github.com/RenolY2/bw-restool/releases)
 
 {.links-list}
 
-
+![screenshot_2025-01-29_142537.png](/screenshot_2025-01-29_142537.png)
 
 -   [BW Model Viewer *A model viewer for Battalion Wars 1 and 2*](https://github.com/RenolY2/bw-model-viewer/releases)
 
