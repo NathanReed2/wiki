@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-29T21:17:31.426Z
+date: 2025-01-29T21:26:18.396Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -216,7 +216,3 @@ These numbers allow the game engine to reference specific text for dialogues, me
 
 
 
----
-
-> Back to [Battalion Wars Home Page](/en/home)
-{.is-info}
