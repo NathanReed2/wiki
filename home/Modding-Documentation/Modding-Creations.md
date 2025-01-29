@@ -2,7 +2,7 @@
 title: Modding Creations
 description: 
 published: true
-date: 2025-01-29T20:56:45.421Z
+date: 2025-01-29T21:05:33.560Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-25T15:46:50.246Z
@@ -76,7 +76,7 @@ If you would like to see gameplay of the normal mode version, you can do so by w
   
 | Mission | Thumbnail |
 |---|---|
-| [Released - 3 Difficulty Modes ](https://discord.com/channels/188322587116306433/1326626609796481034/1326626609796481034) | ![screenshot_2025-01-06_221810.png](/screenshot_2025-01-06_221810.png) | 
+| [Released - 3 Difficulty Modes ](https://discord.com/channels/188322587116306433/1326626609796481034/1326626609796481034) | ![screenshot_2025-01-06_2218109.png](/screenshot_2025-01-06_2218109.png) | 
   
 </details>
 
