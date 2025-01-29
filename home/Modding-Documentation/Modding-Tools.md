@@ -2,7 +2,7 @@
 title: Modding Tools
 description: 
 published: true
-date: 2025-01-29T22:27:30.057Z
+date: 2025-01-29T22:28:33.593Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:13:39.459Z
@@ -14,17 +14,6 @@ dateCreated: 2025-01-23T20:13:39.459Z
 {.is-info}
 
 ---
-# Programs:
-
-- BW Level Editor - [Get the latest version here](https://github.com/RenolY2/battalion-level-editor/releases)
-
-- BW Texture Convert - [Get the latest version here](https://github.com/RenolY2/bw-texture-conv)
-
-- BW Restool - [Get the latest version here](https://github.com/RenolY2/bw-restool/releases)
-
-- BW Model Viewer - [Get the latest version here](https://github.com/RenolY2/bw-model-viewer/releases)
-
-<br>
 
 # Programs
 
