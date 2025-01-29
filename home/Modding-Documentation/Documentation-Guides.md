@@ -2,7 +2,7 @@
 title: Documentation Guides
 description: 
 published: true
-date: 2025-01-27T08:03:45.768Z
+date: 2025-01-29T21:26:44.485Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:03:45.704Z
@@ -110,9 +110,3 @@ We know Battalion Wars soundtrack is awesome! But what if I told you you can use
 
 
 
----
-> Back to [Modding-Documentation](/en/home/Modding-Documentation)
-{.is-info}
-
-> Back to [Battalion Wars Home Page](/en/home)
-{.is-info}
