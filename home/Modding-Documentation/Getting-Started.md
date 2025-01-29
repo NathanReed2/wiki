@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: true
-date: 2025-01-28T23:08:37.467Z
+date: 2025-01-29T21:25:55.842Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T19:53:27.571Z
@@ -84,10 +84,3 @@ After you downloaded the **BW Level Editor**, navigate to the **CompoundFiles** 
 
 Now that you selected a level, you should have loaded into the said level you picked. Now you can start messing around, just know that it's a good idea to watch this [video](https://www.youtube.com/watch?v=1rTJXwBleuU) explaining what's in the **BW Level Editor** since the 1.0 release.
 
----
-
-> Back to [Modding-Documentation](/en/home/Modding-Documentation)
-{.is-info}
-
-> Back to [Battalion Wars Home Page](/en/home)
-{.is-info}
