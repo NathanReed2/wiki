@@ -2,7 +2,7 @@
 title: Infantry XML Information and details
 description: 
 published: true
-date: 2025-01-27T08:05:48.969Z
+date: 2025-01-29T21:18:50.533Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-26T22:57:13.447Z
