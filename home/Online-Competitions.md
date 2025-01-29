@@ -2,7 +2,7 @@
 title: Online Competitions
 description: 
 published: true
-date: 2025-01-27T07:43:58.791Z
+date: 2025-01-29T21:27:43.622Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T04:17:36.354Z
@@ -36,6 +36,3 @@ dateCreated: 2025-01-23T04:17:36.354Z
 
 
 
----
-> Back to [Battalion Wars Home Page](/en/home)
-{.is-info}
