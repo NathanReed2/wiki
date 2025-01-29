@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-29T21:59:07.136Z
+date: 2025-01-29T22:45:58.300Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -28,7 +28,7 @@ While the file format remains undocumented, it is consistent across both games, 
   
 | Battalion Wars 1 | Battalion Wars 2 |
 | --- | --- |
-| ![screenshot_2025-01-23_200715.png](/screenshot_2025-01-23_200715.png) | ![screenshot_2025-01-23_200249.png](/screenshot_2025-01-23_200249.png) |
+| ![screenshot_2025-01-23_200715.png](/screenshot_2025-01-23_200715.png)  | ![screenshot_2025-01-23_200249.png](/screenshot_2025-01-23_200249.png) |
 
 </details>
 
