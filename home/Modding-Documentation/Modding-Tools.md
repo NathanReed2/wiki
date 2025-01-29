@@ -2,7 +2,7 @@
 title: Modding Tools
 description: 
 published: true
-date: 2025-01-29T21:41:36.117Z
+date: 2025-01-29T21:51:28.745Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:13:39.459Z
@@ -29,8 +29,21 @@ dateCreated: 2025-01-23T20:13:39.459Z
 # Programs
 
 -   [BW Level Editor *An editor for Battalion Wars 1 and 2, work in porgress*](https://github.com/RenolY2/battalion-level-editor/releases)
+
+{.links-list}
+
+
 -   [BW Texture Convert *Texture converter for Battalion Wars 1 and 2*](https://github.com/RenolY2/bw-texture-conv)
+
+{.links-list}
+
+
+
 -   [BW Restool *Resource archive packer and unpacker for Battalion Wars 1 and 2*](https://github.com/RenolY2/bw-restool/releases)
+
+{.links-list}
+
+
 -   [BW Model Viewer *A model viewer for Battalion Wars 1 and 2*](https://github.com/RenolY2/bw-model-viewer/releases)
 
 {.links-list}
