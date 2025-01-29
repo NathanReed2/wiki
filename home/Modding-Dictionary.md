@@ -1,8 +1,8 @@
 ---
-title: Modding Dictionary
+title: Modding Concepts
 description: 
 published: true
-date: 2025-01-28T03:03:53.248Z
+date: 2025-01-29T21:17:31.426Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
