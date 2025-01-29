@@ -2,7 +2,7 @@
 title: Modding Tools
 description: 
 published: true
-date: 2025-01-27T08:05:22.098Z
+date: 2025-01-29T21:27:11.475Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:13:39.459Z
@@ -33,9 +33,3 @@ dateCreated: 2025-01-23T20:13:39.459Z
 
 
 
----
-> Back to [Modding-Documentation](/en/home/Modding-Documentation)
-{.is-info}
-
-> Back to [Battalion Wars Home Page](/en/home)
-{.is-info}
