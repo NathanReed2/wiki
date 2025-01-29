@@ -2,7 +2,7 @@
 title: Infantry XML Information and details
 description: 
 published: true
-date: 2025-01-29T21:18:50.533Z
+date: 2025-01-29T21:27:25.652Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-26T22:57:13.447Z
@@ -175,10 +175,4 @@ The **mBase** points to the **sTroopBase** data, which provides shared attribute
 
 
 
----
 
-> Back to [Modding-Dictionary](/en/home/Modding-Dictionary)
-{.is-info}
-
-> Back to [Battalion Wars Home Page](/en/home)
-{.is-info}
