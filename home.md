@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-01-28T23:06:12.701Z
+date: 2025-01-29T21:17:57.447Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -15,7 +15,7 @@ dateCreated: 2025-01-23T03:05:34.127Z
 
 ---
 
-# [Modding-Concepts](/en/home/Modding-Dictionary)
+# [Modding-Concepts](/en/home/Modding-Concepts)
 
 The **Modding Concepts** page will have the modding concepts needed to mod **Battalion Wars 1** and **Battalion Wars 2**. Such as what each file does.
 
