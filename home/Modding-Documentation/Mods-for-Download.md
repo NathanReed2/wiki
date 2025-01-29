@@ -2,7 +2,7 @@
 title: Mods for Download
 description: 
 published: true
-date: 2025-01-29T21:22:33.267Z
+date: 2025-01-29T21:26:57.066Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-25T15:46:50.246Z
@@ -147,9 +147,3 @@ This is where I'm going to place the custom units I've made, that way people can
 
 
 
----
-> Back to [Modding-Documentation](/en/home/Modding-Documentation)
-{.is-info}
-
-> Back to [Battalion Wars Home Page](/en/home)
-{.is-info}
