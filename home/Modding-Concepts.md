@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-29T21:26:18.396Z
+date: 2025-01-29T21:59:07.136Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -166,7 +166,7 @@ These numbers allow the game engine to reference specific text for dialogues, me
   
 </details>
 
-# [Infantry-XML-Information-and-details](/en/home/Modding-Dictionary/Infantry-XML-Information-and-details)
+# [Infantry-XML-Information-and-details](/en/home/Modding-Concepts/Infantry-XML-Information-and-details)
 
 # Ground vehicle XML Section and detail
 
