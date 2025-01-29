@@ -2,7 +2,7 @@
 title: Modding Creations
 description: 
 published: true
-date: 2025-01-29T21:05:33.560Z
+date: 2025-01-29T21:14:08.614Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-25T15:46:50.246Z
@@ -89,13 +89,9 @@ If you would like to see gameplay of the normal mode version, you can do so by w
 <details>
 <summary>Zebra's Custom Missions</summary>
   
-[C1 - Combat Patrol](link_to_your_custom_mission)
-  
-[C1 - Plan of Attack](link_to_your_custom_mission)
-  
-[C2 - Gunships of the Desert](link_to_your_custom_mission)  
-  
-[C3 - XDay](link_to_your_custom_mission) 
+> WIP
+{.is-warning}
+
   
 </details>
 
@@ -108,11 +104,8 @@ If you would like to see gameplay of the normal mode version, you can do so by w
 <details>
 <summary>Zebra's Custom Missions</summary>
   
-[SP 2.1 - Line in the Sand](link_to_your_custom_mission)
-  
-[SP 2.2 - Wings of the Gunship](link_to_your_custom_mission)
-  
-[SP 2.3 - Enemies Undone](link_to_your_custom_mission)  
+> WIP
+{.is-warning}
   
 </details>
 
@@ -140,7 +133,16 @@ If you would like to see gameplay of the normal mode version, you can do so by w
 
 ## Battalion Wars 2
 
+<details>
+<summary>Zebra's Custom Units</summary>
 
+This is where I'm going to place the custom units I've made, that way people can import them and do whatever they want to with them lol like change the damage, fire rate, speed, etc.
+  
+| Units | Preview |
+|---|---|
+| [XY Naval Transport](https://discord.com/channels/188322587116306433/1320653705355202632/1320653705355202632) | ![screenshot_2024-12-11_112031.png](/screenshot_2024-12-11_112031.png) | 
+  
+</details>
 
 
 
