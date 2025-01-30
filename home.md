@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-01-30T20:39:51.031Z
+date: 2025-01-30T20:40:00.882Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -19,6 +19,8 @@ dateCreated: 2025-01-23T03:05:34.127Z
 ## About Battalion Wars
 
 **Battalion Wars** is a real-time tactics game developed by **Kuju Entertainment** and published by **Nintendo**.
+
+<br>
 
 | The series includes two titles | Plateform |
 |---|---|
