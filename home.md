@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-01-30T20:35:01.541Z
+date: 2025-01-30T20:39:31.711Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -22,8 +22,8 @@ dateCreated: 2025-01-23T03:05:34.127Z
 
 | The series includes two titles | Plateform |
 |---|---|
-| ![battalionwarslog.p8.20.0.255.8.253.-1.png](/battalionwarslog.p8.20.0.255.8.253.-1.png) | ![gclogo-removebg-preview.png](/gclogo-removebg-preview.png) |
-| ![bwii_logo.p8.4116.0.255.7.256.-1.png](/bwii_logo.p8.4116.0.255.7.256.-1.png) | ![wiilogo-removebg-preview.png](/wiilogo-removebg-preview.png) |
+| ![battalionwarslog.p8.20.0.255.8.253.-1.png](/battalionwarslog.p8.20.0.255.8.253.-1.png) | ![gclogo-removebg-preview_(1).png](/gclogo-removebg-preview_(1).png) |
+| ![bwii_logo.p8.4116.0.255.7.256.-1.png](/bwii_logo.p8.4116.0.255.7.256.-1.png) | ![wiilogo-removebg-preview_(2).png](/wiilogo-removebg-preview_(2).png) |
 
 
 -   **Battalion Wars (GameCube)**
