@@ -2,7 +2,7 @@
 title: PF2 Documentation
 description: detailed .pf2 information
 published: true
-date: 2025-01-28T03:11:37.792Z
+date: 2025-01-30T06:23:57.912Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-27T05:24:23.353Z
