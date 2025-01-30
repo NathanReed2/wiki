@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-30T22:35:42.663Z
+date: 2025-01-30T22:39:01.085Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -192,7 +192,7 @@ These numbers allow the game engine to reference specific text for dialogues, me
 
 ![x_ltra01.dxt1.4108.0.255.2.32.-1.png](/x_ltra01.dxt1.4108.0.255.2.32.-1.png)![x_ltnk01.dxt1.4108.0.255.2.22.-1.png](/x_ltnk01.dxt1.4108.0.255.2.22.-1.png)![x_htnk01.dxt1.4108.0.255.2.24.-1.png](/x_htnk01.dxt1.4108.0.255.2.24.-1.png)![x_bsta01.dxt1.4108.0.255.2.30.-1.png](/x_bsta01.dxt1.4108.0.255.2.30.-1.png)![x_aa01.dxt1.4108.0.255.2.20.-1.png](/x_aa01.dxt1.4108.0.255.2.20.-1.png)![x_art01.dxt1.4108.0.255.2.76.-1.png](/x_art01.dxt1.4108.0.255.2.76.-1.png)
 
-# Air vehicle XML Section and detail
+# [Air Vehicle XML Section and Details](/home/Modding-Concepts/Air-vehicle-XML-Section-and-Details)
 
 ![s_gshp01.dxt1.4108.0.255.2.15.-1.png](/s_gshp01.dxt1.4108.0.255.2.15.-1.png)![s_ftr01.dxt1.4108.0.255.2.24.-1.png](/s_ftr01.dxt1.4108.0.255.2.24.-1.png)![s_tpt01.dxt1.4108.0.255.2.18.-1.png](/s_tpt01.dxt1.4108.0.255.2.18.-1.png)
 
