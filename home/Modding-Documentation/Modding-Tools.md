@@ -2,7 +2,7 @@
 title: Modding Tools
 description: 
 published: true
-date: 2025-01-29T23:59:11.962Z
+date: 2025-01-30T00:17:32.709Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:13:39.459Z
@@ -54,27 +54,5 @@ dateCreated: 2025-01-23T20:13:39.459Z
 
 
 
-<div class="flex-container">
-    <div class="flex-child">
-        <a class="nolink" href="/en/about-als/symptoms">
-            <button class="alswbtn bg-blue">ALS symptoms ›</button>
-        </a>
-    </div>
-    <div class="flex-child">
-        <a class="nolink" href="/en/about-als/diagnosing-als">
-            <button class="alswbtn bg-orange">How ALS is diagnosed ›</button>
-        </a>
-    </div>
-    <div class="flex-child">
-        <a class="nolink" href="/en/living-with-als">
-            <button class="alswbtn">Living with ALS ›</button>
-        </a>
-    </div>
-    <div class="flex-child">
-        <a class="nolink" href="/en/occupational-therapy">
-            <button class="alswbtn bg-mint">Occupational Therapy ›</button>
-        </a>
-    </div>
-</div>
 
 
