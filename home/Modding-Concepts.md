@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-30T02:01:22.538Z
+date: 2025-01-30T02:05:26.538Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -219,13 +219,6 @@ These numbers allow the game engine to reference specific text for dialogues, me
 ![t_frigate01.dxt1.4108.0.255.2.19.-1.png](/t_frigate01.dxt1.4108.0.255.2.19.-1.png)![t_bship01.dxt1.4108.0.255.2.19.-1.png](/t_bship01.dxt1.4108.0.255.2.19.-1.png)![t_dnought01.dxt1.4108.0.255.2.15.-1.png](/t_dnought01.dxt1.4108.0.255.2.15.-1.png)![t_sub01.dxt1.4108.0.255.2.15.-1.png](/t_sub01.dxt1.4108.0.255.2.15.-1.png)
 
 ![x_frigate01.dxt1.4108.0.255.2.18.-1.png](/x_frigate01.dxt1.4108.0.255.2.18.-1.png)![x_bship01.dxt1.4108.0.255.2.17.-1.png](/x_bship01.dxt1.4108.0.255.2.17.-1.png)![x_dnought01.dxt1.4108.0.255.2.19.-1.png](/x_dnought01.dxt1.4108.0.255.2.19.-1.png)![x_sub01.dxt1.4108.0.255.2.20.-1.png](/x_sub01.dxt1.4108.0.255.2.20.-1.png)
-
-# Model XML Sections and detail
-
-- mpModel
-- mpTreadTrackModelLeft
-- mpTreadTrackModelRight
-
 
 # Unit Scripts Sections and detail
 
