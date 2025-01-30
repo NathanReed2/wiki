@@ -2,7 +2,7 @@
 title: Getting Started Modding
 description: 
 published: true
-date: 2025-01-30T21:16:34.312Z
+date: 2025-01-30T21:30:47.905Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T19:53:27.571Z
@@ -25,6 +25,7 @@ The first thing you want to do is make an **"Extracted"** version of **Battalion
 
 <a href="https://www.youtube.com/watch?v=plUi3Ak-B98">Watch Video 1</a>
 
+<a href="https://www.youtube.com/watch?v=plUi3Ak-B98">Watch Video 1</a>
 
 
 
