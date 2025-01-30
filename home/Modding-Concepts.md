@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-30T06:17:56.735Z
+date: 2025-01-30T06:25:14.486Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -48,7 +48,7 @@ Battalion Wars 1 utilizes the **.pf2**, though no documentation currently exists
   
 Battalion Wars 2 utilizes the **.pf2** file that appears to define level boundaries, facilitate pathfinding, and potentially assist in calculations related to map zones.
   
-For more detailed information, check out the [PF2 Documentation](/en/home/Modding-Dictionary/pf2) page to learn more.
+For more detailed information, check out the [PF2 Documentation](/en/home/Modding-Concepts/pf2) page to learn more.
 
 <br>
   
