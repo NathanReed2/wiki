@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-01-30T19:04:01.212Z
+date: 2025-01-30T19:04:17.759Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -11,6 +11,8 @@ dateCreated: 2025-01-23T03:05:34.127Z
 # Battalion Wars Modding and Online Competitions Wiki
 
 > Welcome to the **Battalion Wars Modding and Online Competitions Wiki**! This platform is dedicated to enthusiasts of the **Battalion Wars** series, focusing on **game modifications** and **online competitive play**. Whether you're a seasoned modder, a competitive player, or new to the community, you'll find valuable resources and information here and remember to join the [Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ).
+{.is-info}
+
 
 ---
 
