@@ -1,8 +1,8 @@
 ---
-title: Getting Started
+title: Getting Started Modding
 description: 
 published: true
-date: 2025-01-30T06:13:39.099Z
+date: 2025-01-30T06:32:35.656Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T19:53:27.571Z
