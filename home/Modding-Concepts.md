@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-30T01:08:40.591Z
+date: 2025-01-30T01:27:37.167Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -172,9 +172,13 @@ These numbers allow the game engine to reference specific text for dialogues, me
 
 ![wf_grunt01.png](/wf_grunt01.png)![wf_antiarm01.dxt1.4108.0.255.2.54.-1.png](/wf_antiarm01.dxt1.4108.0.255.2.54.-1.png)![wf_hose01.dxt1.4108.0.255.2.60.-1.png](/wf_hose01.dxt1.4108.0.255.2.60.-1.png)![wf_antiair01.dxt1.4108.0.255.2.59.-1.png](/wf_antiair01.dxt1.4108.0.255.2.59.-1.png)![wf_parabolic01.dxt1.4108.0.255.2.82.-1.png](/wf_parabolic01.dxt1.4108.0.255.2.82.-1.png)![wf_hmg01.dxt1.4108.0.255.2.53.-1.png](/wf_hmg01.dxt1.4108.0.255.2.53.-1.png)
 
+![icon_anglogrunt.dxt1.4108.0.255.2.69.-1.png](/icon_anglogrunt.dxt1.4108.0.255.2.69.-1.png)![ai_antiarm01.dxt1.4108.0.255.2.73.-1.png](/ai_antiarm01.dxt1.4108.0.255.2.73.-1.png)![ai_hose01.dxt1.4108.0.255.2.69.-1.png](/ai_hose01.dxt1.4108.0.255.2.69.-1.png)![ai_antiair01.dxt1.4108.0.255.2.68.-1.png](/ai_antiair01.dxt1.4108.0.255.2.68.-1.png)![ai_parabolic01.dxt1.4108.0.255.2.65.-1.png](/ai_parabolic01.dxt1.4108.0.255.2.65.-1.png)![ai_hmg01.dxt1.4108.0.255.2.77.-1.png](/ai_hmg01.dxt1.4108.0.255.2.77.-1.png)
+
+![u_grunt01.dxt1.4108.0.255.2.64.-1.png](/u_grunt01.dxt1.4108.0.255.2.64.-1.png)![u_antiarm01.dxt1.4108.0.255.2.65.-1.png](/u_antiarm01.dxt1.4108.0.255.2.65.-1.png)![u_hose01.dxt1.4108.0.255.2.69.-1.png](/u_hose01.dxt1.4108.0.255.2.69.-1.png)![u_antiair01.dxt1.4108.0.255.2.72.-1.png](/u_antiair01.dxt1.4108.0.255.2.72.-1.png)![u_parabolic01.dxt1.4108.0.255.2.75.-1.png](/u_parabolic01.dxt1.4108.0.255.2.75.-1.png)![u_hmg01.dxt1.4108.0.255.2.74.-1.png](/u_hmg01.dxt1.4108.0.255.2.74.-1.png)
+
 ![t_grunt01.dxt1.4108.0.255.2.69.-1.png](/t_grunt01.dxt1.4108.0.255.2.69.-1.png)![t_antiarm01.dxt1.4108.0.255.2.60.-1.png](/t_antiarm01.dxt1.4108.0.255.2.60.-1.png)![t_hose01.dxt1.4108.0.255.2.53.-1.png](/t_hose01.dxt1.4108.0.255.2.53.-1.png)![t_antiair01.dxt1.4108.0.255.2.57.-1.png](/t_antiair01.dxt1.4108.0.255.2.57.-1.png)![t_parabolic01.dxt1.4108.0.255.2.57.-1.png](/t_parabolic01.dxt1.4108.0.255.2.57.-1.png)![t_hmg01.dxt1.4108.0.255.2.58.-1.png](/t_hmg01.dxt1.4108.0.255.2.58.-1.png)
 
-
+![x_grunt01.dxt1.4108.0.255.2.61.-1.png](/x_grunt01.dxt1.4108.0.255.2.61.-1.png)![x_antiarm01.dxt1.4108.0.255.2.56.-1.png](/x_antiarm01.dxt1.4108.0.255.2.56.-1.png)![x_hose01.dxt1.4108.0.255.2.55.-1.png](/x_hose01.dxt1.4108.0.255.2.55.-1.png)![x_antiair01.dxt1.4108.0.255.2.59.-1.png](/x_antiair01.dxt1.4108.0.255.2.59.-1.png)![x_parabolic01.dxt1.4108.0.255.2.63.-1.png](/x_parabolic01.dxt1.4108.0.255.2.63.-1.png)![x_hmg01.dxt1.4108.0.255.2.60.-1.png](/x_hmg01.dxt1.4108.0.255.2.60.-1.png)
 
 # Ground vehicle XML Section and detail
 
