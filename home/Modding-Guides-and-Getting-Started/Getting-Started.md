@@ -2,7 +2,7 @@
 title: Getting Started Modding
 description: 
 published: true
-date: 2025-01-30T21:31:26.838Z
+date: 2025-01-30T21:34:07.793Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T19:53:27.571Z
@@ -23,7 +23,7 @@ dateCreated: 2025-01-23T19:53:27.571Z
 The first thing you want to do is make an **"Extracted"** version of **Battalion Wars 1** and/or **Battalion Wars 2**, you can do so by clicking the link below and watching the video.
 
 
-<a href="https://www.youtube.com/watch?v=plUi3Ak-B98">YT Video</a>
+https://www.youtube.com/watch?v=plUi3Ak-B98
 
 
 
