@@ -2,12 +2,10 @@
 title: Modding Guides
 description: 
 published: true
-date: 2025-01-30T06:14:19.697Z
+date: 2025-01-30T06:18:33.936Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:03:45.704Z
----
-
 ---
 
 > If you have any questions related to modding, join the [Battalion Wars discord server](https://discord.gg/aPvrTsDARJ)  and we'll be happy to help with anything you might be stuck on.
