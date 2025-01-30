@@ -2,7 +2,7 @@
 title: Getting Started Modding
 description: 
 published: true
-date: 2025-01-30T20:54:55.627Z
+date: 2025-01-30T21:12:18.405Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T19:53:27.571Z
@@ -24,6 +24,10 @@ The first thing you want to do is make an **"Extracted"** version of **Battalion
 
 [![Custom Thumbnail](https://battalionwars.wiki/screenshot_2025-01-30_125153.png)](https://www.youtube.com/watch?v=plUi3Ak-B98)
 
+
+
+<a href="https://www.youtube.com/watch?v=plUi3Ak-B98">Watch Video 1</a>
+<a href="https://www.youtube.com/watch?v=ABCDEFG1234">Watch Video 2</a>
 
 Now that you have an **"Extracted"** version of the game you want to mod.
 
