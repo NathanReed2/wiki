@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-30T01:27:37.167Z
+date: 2025-01-30T01:42:54.756Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -182,13 +182,38 @@ These numbers allow the game engine to reference specific text for dialogues, me
 
 # Ground vehicle XML Section and detail
 
+![s_reco01.dxt1.4108.0.255.2.95.-1.png](/s_reco01.dxt1.4108.0.255.2.95.-1.png)![s_ltnk01.dxt1.4108.0.255.2.17.-1.png](/s_ltnk01.dxt1.4108.0.255.2.17.-1.png)![s_htnk01.dxt1.4108.0.255.2.20.-1.png](/s_htnk01.dxt1.4108.0.255.2.20.-1.png)![s_aa01.dxt1.4108.0.255.2.36.-1.png](/s_aa01.dxt1.4108.0.255.2.36.-1.png)![s_art01.dxt1.4108.0.255.2.17.-1.png](/s_art01.dxt1.4108.0.255.2.17.-1.png)
+
 ![wf_reco01.dxt1.4108.0.255.2.20.-1.png](/wf_reco01.dxt1.4108.0.255.2.20.-1.png)![wf_ltnk01.dxt1.4108.0.255.2.21.-1.png](/wf_ltnk01.dxt1.4108.0.255.2.21.-1.png)![wf_htnk01.p8.4108.0.255.2.21.-1.png](/wf_htnk01.p8.4108.0.255.2.21.-1.png)![wf_bsta01.dxt1.4108.0.255.2.22.-1.png](/wf_bsta01.dxt1.4108.0.255.2.22.-1.png)![wf_aa01.dxt1.4108.0.255.2.19.-1.png](/wf_aa01.dxt1.4108.0.255.2.19.-1.png)![wf_art01.dxt1.4108.0.255.2.21.-1.png](/wf_art01.dxt1.4108.0.255.2.21.-1.png)
+
+![ai_ltnk01.dxt1.4108.0.255.2.39.-1.png](/ai_ltnk01.dxt1.4108.0.255.2.39.-1.png)![ai_htnk01.dxt1.4108.0.255.2.36.-1.png](/ai_htnk01.dxt1.4108.0.255.2.36.-1.png)![ai_art01.dxt1.4108.0.255.2.27.-1.png](/ai_art01.dxt1.4108.0.255.2.27.-1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Air vehicle XML Section and detail
 
+![s_gshp01.dxt1.4108.0.255.2.15.-1.png](/s_gshp01.dxt1.4108.0.255.2.15.-1.png)![s_ftr01.dxt1.4108.0.255.2.24.-1.png](/s_ftr01.dxt1.4108.0.255.2.24.-1.png)![s_tpt01.dxt1.4108.0.255.2.18.-1.png](/s_tpt01.dxt1.4108.0.255.2.18.-1.png)
+
 ![wf_gshp01.dxt1.4108.0.255.2.19.-1.png](/wf_gshp01.dxt1.4108.0.255.2.19.-1.png)![wf_ftr01.dxt1.4108.0.255.2.20.-1.png](/wf_ftr01.dxt1.4108.0.255.2.20.-1.png)![wf_bomber01.dxt1.4108.0.255.2.18.-1.png](/wf_bomber01.dxt1.4108.0.255.2.18.-1.png)![wf_srato01.dxt1.4108.0.255.2.19.-1.png](/wf_srato01.dxt1.4108.0.255.2.19.-1.png)![wf_tpt01.dxt1.4108.0.255.2.22.-1.png](/wf_tpt01.dxt1.4108.0.255.2.22.-1.png)
 
+![ai_ftr01.dxt1.4108.0.255.2.39.-1.png](/ai_ftr01.dxt1.4108.0.255.2.39.-1.png)![ai_bomber01.dxt1.4108.0.255.2.32.-1.png](/ai_bomber01.dxt1.4108.0.255.2.32.-1.png)![ai_tpt01.dxt1.4108.0.255.2.34.-1.png](/ai_tpt01.dxt1.4108.0.255.2.34.-1.png)
+
+
 # Water vehicle XML Section and detail
+
+![s_frigate01.dxt1.4108.0.255.2.21.-1.png](/s_frigate01.dxt1.4108.0.255.2.21.-1.png)![s_bshp01.dxt1.4108.0.255.2.18.-1.png](/s_bshp01.dxt1.4108.0.255.2.18.-1.png)![s_dnought01.dxt1.4108.0.255.2.29.-1.png](/s_dnought01.dxt1.4108.0.255.2.29.-1.png)![s_sub01.dxt1.4108.0.255.2.12.-1.png](/s_sub01.dxt1.4108.0.255.2.12.-1.png)![s_lcraft01.dxt1.4108.0.255.2.12.-1.png](/s_lcraft01.dxt1.4108.0.255.2.12.-1.png)
 
 ![wf_frigate01.dxt1.4108.0.255.2.19.-1.png](/wf_frigate01.dxt1.4108.0.255.2.19.-1.png)![wf_bship01.dxt1.4108.0.255.2.19.-1.png](/wf_bship01.dxt1.4108.0.255.2.19.-1.png)![wf_dnought01.dxt1.4108.0.255.2.22.-1.png](/wf_dnought01.dxt1.4108.0.255.2.22.-1.png)![wf_sub01.dxt1.4108.0.255.2.23.-1.png](/wf_sub01.dxt1.4108.0.255.2.23.-1.png)![wf_lcraft01.dxt1.4108.0.255.2.16.-1.png](/wf_lcraft01.dxt1.4108.0.255.2.16.-1.png)
 
