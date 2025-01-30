@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-01-30T21:34:44.198Z
+date: 2025-01-30T21:36:20.726Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -61,7 +61,8 @@ To participate in **online matches** or stay updated on **upcoming competitions*
 [Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ)
 
 📺 **YouTube Channel** – Watch gameplay videos and tournament highlights.  
-[Watch here](https://www.youtube.com/watch?v=20-2CBec-08&utm_source=chatgpt.com)
+
+https://www.youtube.com/watch?v=20-2CBec-08&utm
 
 📜 **Modding Journal** – Explore detailed entries on modding experiments, tools, and discoveries.  
 [Read here](https://koopanique.neocities.org/video_games/battalion_wars-modding_journal)
