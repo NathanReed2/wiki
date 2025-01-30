@@ -2,7 +2,7 @@
 title: Mods for Download
 description: 
 published: true
-date: 2025-01-30T06:19:42.003Z
+date: 2025-01-30T22:47:16.886Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-25T15:46:50.246Z
@@ -70,7 +70,9 @@ dateCreated: 2025-01-25T15:46:50.246Z
 
 Hello, this is our 1st custom mission with 3 different modes. You have **Normal**, **Hardcore**, and **Nightmare**. 
   
-If you would like to see gameplay of the normal mode version, you can do so by watching it [here](https://www.youtube.com/watch?v=PJikiyxagp8&t=0s)
+If you would like to see gameplay of the normal mode version, click and watch the video below.
+  
+https://www.youtube.com/watch?v=PJikiyxagp8&t=0s
   
 | Mission | Thumbnail |
 |---|---|
