@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-30T01:56:53.229Z
+date: 2025-01-30T02:01:22.538Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -192,7 +192,7 @@ These numbers allow the game engine to reference specific text for dialogues, me
 
 ![t_reco01.dxt1.4108.0.255.2.19.-1.png](/t_reco01.dxt1.4108.0.255.2.19.-1.png)![t_ltnk01.dxt1.4108.0.255.2.20.-1.png](/t_ltnk01.dxt1.4108.0.255.2.20.-1.png)![t_htnk01.dxt1.4108.0.255.2.21.-1.png](/t_htnk01.dxt1.4108.0.255.2.21.-1.png)![t_bsta01.dxt1.4108.0.255.2.19.-1.png](/t_bsta01.dxt1.4108.0.255.2.19.-1.png)![t_aa01.dxt1.4108.0.255.2.23.-1.png](/t_aa01.dxt1.4108.0.255.2.23.-1.png)![t_art01.dxt1.4108.0.255.2.21.-1.png](/t_art01.dxt1.4108.0.255.2.21.-1.png)
 
-
+![x_ltra01.dxt1.4108.0.255.2.32.-1.png](/x_ltra01.dxt1.4108.0.255.2.32.-1.png)![x_ltnk01.dxt1.4108.0.255.2.22.-1.png](/x_ltnk01.dxt1.4108.0.255.2.22.-1.png)![x_htnk01.dxt1.4108.0.255.2.24.-1.png](/x_htnk01.dxt1.4108.0.255.2.24.-1.png)![x_bsta01.dxt1.4108.0.255.2.30.-1.png](/x_bsta01.dxt1.4108.0.255.2.30.-1.png)![x_aa01.dxt1.4108.0.255.2.20.-1.png](/x_aa01.dxt1.4108.0.255.2.20.-1.png)![x_art01.dxt1.4108.0.255.2.76.-1.png](/x_art01.dxt1.4108.0.255.2.76.-1.png)
 
 # Air vehicle XML Section and detail
 
@@ -206,7 +206,7 @@ These numbers allow the game engine to reference specific text for dialogues, me
 
 ![t_gshp01.dxt1.4108.0.255.2.20.-1.png](/t_gshp01.dxt1.4108.0.255.2.20.-1.png)![t_ftr01.dxt1.4108.0.255.2.31.-1.png](/t_ftr01.dxt1.4108.0.255.2.31.-1.png)![t_bomber01.dxt1.4108.0.255.2.21.-1.png](/t_bomber01.dxt1.4108.0.255.2.21.-1.png)![t_srato01.dxt1.4108.0.255.2.41.-1.png](/t_srato01.dxt1.4108.0.255.2.41.-1.png)![t_tpt01.dxt1.4108.0.255.2.20.-1.png](/t_tpt01.dxt1.4108.0.255.2.20.-1.png)
 
-
+![x_gshp01.dxt1.4108.0.255.2.21.-1.png](/x_gshp01.dxt1.4108.0.255.2.21.-1.png)![x_ftr01.dxt1.4108.0.255.2.19.-1.png](/x_ftr01.dxt1.4108.0.255.2.19.-1.png)![x_bomber01.dxt1.4108.0.255.2.22.-1.png](/x_bomber01.dxt1.4108.0.255.2.22.-1.png)![x_srato01.dxt1.4108.0.255.2.21.-1.png](/x_srato01.dxt1.4108.0.255.2.21.-1.png)![x_tpt01.dxt1.4108.0.255.2.20.-1.png](/x_tpt01.dxt1.4108.0.255.2.20.-1.png)
 
 # Water vehicle XML Section and detail
 
@@ -218,7 +218,7 @@ These numbers allow the game engine to reference specific text for dialogues, me
 
 ![t_frigate01.dxt1.4108.0.255.2.19.-1.png](/t_frigate01.dxt1.4108.0.255.2.19.-1.png)![t_bship01.dxt1.4108.0.255.2.19.-1.png](/t_bship01.dxt1.4108.0.255.2.19.-1.png)![t_dnought01.dxt1.4108.0.255.2.15.-1.png](/t_dnought01.dxt1.4108.0.255.2.15.-1.png)![t_sub01.dxt1.4108.0.255.2.15.-1.png](/t_sub01.dxt1.4108.0.255.2.15.-1.png)
 
-
+![x_frigate01.dxt1.4108.0.255.2.18.-1.png](/x_frigate01.dxt1.4108.0.255.2.18.-1.png)![x_bship01.dxt1.4108.0.255.2.17.-1.png](/x_bship01.dxt1.4108.0.255.2.17.-1.png)![x_dnought01.dxt1.4108.0.255.2.19.-1.png](/x_dnought01.dxt1.4108.0.255.2.19.-1.png)![x_sub01.dxt1.4108.0.255.2.20.-1.png](/x_sub01.dxt1.4108.0.255.2.20.-1.png)
 
 # Model XML Sections and detail
 
