@@ -2,7 +2,7 @@
 title: Modding Guides & Getting Started
 description: 
 published: true
-date: 2025-01-30T06:09:14.013Z
+date: 2025-01-30T06:10:54.503Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T04:58:09.971Z
@@ -19,7 +19,7 @@ dateCreated: 2025-01-23T04:58:09.971Z
 
 The **Getting Started** page will help you get ready to start modding **Battalion Wars 1** and/or **Battalion Wars 2**.
 
-# [Documentation-Guides](/en/home/Modding-Documentation/Documentation-Guides)
+# [Documentation-Guides](/en/home/Modding-Documentation/Modding-Guides)
 
 The **Documentation Guides** page will have different documentation to help you mod **Battalion Wars 1** and/or **Battalion Wars 2**.
 
