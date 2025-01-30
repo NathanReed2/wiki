@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-01-30T06:03:27.057Z
+date: 2025-01-30T06:07:11.748Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -21,7 +21,7 @@ The **Modding Concepts** page will have the modding concepts needed to mod **Bat
 
 # [Modding Gudies & Getting Started](/en/home/Modding-Documentation)
 
-Whether you're someone who wants to start modding **Battalion Wars 1 or 2**, then check out **Modding Documentation** page.
+Whether you're someone who wants to start modding **Battalion Wars 1 or 2**, then check out **Modding Gudies & Getting Started** page.
 
 # [Online Competitions](/en/home/Online-Competitions)
 
