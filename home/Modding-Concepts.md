@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-29T22:48:16.507Z
+date: 2025-01-30T00:30:45.714Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -166,8 +166,9 @@ These numbers allow the game engine to reference specific text for dialogues, me
   
 </details>
 
-# [Infantry-XML-Information-and-details](/en/home/Modding-Concepts/Infantry-XML-Information-and-details)
+# [Infantry-XML-Information-and-details](/en/home/Modding-Concepts/Infantry-XML-Information-and-details) 
 
+![wf_grunt01.png](/wf_grunt01.png) ![wf_antiarm01.dxt1.4108.0.255.2.54.-1.png](/wf_antiarm01.dxt1.4108.0.255.2.54.-1.png) ![wf_hose01.dxt1.4108.0.255.2.60.-1.png](/wf_hose01.dxt1.4108.0.255.2.60.-1.png) ![wf_antiair01.dxt1.4108.0.255.2.59.-1.png](/wf_antiair01.dxt1.4108.0.255.2.59.-1.png) ![wf_parabolic01.dxt1.4108.0.255.2.82.-1.png](/wf_parabolic01.dxt1.4108.0.255.2.82.-1.png) ![wf_hmg01.dxt1.4108.0.255.2.53.-1.png](/wf_hmg01.dxt1.4108.0.255.2.53.-1.png)  
 # Ground vehicle XML Section and detail
 
 - cGroundVehicle
