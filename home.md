@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-01-30T07:28:00.632Z
+date: 2025-01-30T19:04:01.212Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -11,56 +11,55 @@ dateCreated: 2025-01-23T03:05:34.127Z
 # Battalion Wars Modding and Online Competitions Wiki
 
 > Welcome to the **Battalion Wars Modding and Online Competitions Wiki**! This platform is dedicated to enthusiasts of the **Battalion Wars** series, focusing on **game modifications** and **online competitive play**. Whether you're a seasoned modder, a competitive player, or new to the community, you'll find valuable resources and information here and remember to join the [Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ).
-{.is-info}
 
 ---
 
-## About Battalion Wars  
+## About Battalion Wars
 
 **Battalion Wars** is a real-time tactics game developed by **Kuju Entertainment** and published by **Nintendo**.
 
-The series includes two titles: 
+The series includes two titles:
 
-- **Battalion Wars (GameCube)**
-- **Battalion Wars 2 (Wii)**
+-   **Battalion Wars (GameCube)**
+-   **Battalion Wars 2 (Wii)**
 
 Players command armies, manage units, and engage in strategic battles across various terrains.
 
 ---
 
-## Modding Community  
+## Modding Community
 
-The modding community has developed **tools and guides** to enhance and customize the **Battalion Wars** experience.   These resources allow players to **modify game files, create new missions, and adjust gameplay mechanics**.
+The modding community has developed **tools and guides** to enhance and customize the **Battalion Wars** experience. These resources allow players to **modify game files, create new missions, and adjust gameplay mechanics**.
 
 ---
 
-## Online Competitions  
+## Online Competitions
 
-The **Battalion Wars** community actively organizes **online tournaments** and **matches**, fostering a competitive environment for players. 
+The **Battalion Wars** community actively organizes **online tournaments** and **matches**, fostering a competitive environment for players.
 
 Regular events, such as the **Summer Tournament 2023**, showcased high-level gameplay and strategies.
 
-🎮 **Tournament Highlight:**  
+🎮 **Tournament Highlight:**
 
-[Watch on YouTube](https://www.youtube.com/watch?v=kXNLEZweWUs&utm_source=chatgpt.com)  
+[Watch on YouTube](https://www.youtube.com/watch?v=kXNLEZweWUs&utm_source=chatgpt.com)
 
-To participate in **online matches** or stay updated on **upcoming competitions**, join the [Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ).  
+To participate in **online matches** or stay updated on **upcoming competitions**, join the [Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ).
 
 ---
 
-## Community Resources  
+## Community Resources
 
 🔹 **Discord Server** – Connect with other players, access modding support, and participate in discussions.  
-[Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ) 
+[Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ)
 
 📺 **YouTube Channel** – Watch gameplay videos and tournament highlights.  
-[Watch here](https://www.youtube.com/watch?v=20-2CBec-08&utm_source=chatgpt.com)  
+[Watch here](https://www.youtube.com/watch?v=20-2CBec-08&utm_source=chatgpt.com)
 
 📜 **Modding Journal** – Explore detailed entries on modding experiments, tools, and discoveries.  
-[Read here](https://koopanique.neocities.org/video_games/battalion_wars-modding_journal?utm_source=chatgpt.com)  
+[Read here](https://koopanique.neocities.org/video_games/battalion_wars-modding_journal)
 
 ---
 
-We encourage all members to **contribute** by sharing their **mods, strategies, and experiences**. 
+We encourage all members to **contribute** by sharing their **mods, strategies, and experiences**.
 
 Together, we can continue to **expand and enrich** the **Battalion Wars** community.
