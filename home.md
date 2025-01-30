@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-01-30T21:14:27.726Z
+date: 2025-01-30T21:34:44.198Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -49,7 +49,7 @@ Regular events, such as the **Summer Tournament 2023**, showcased high-level gam
 
 🎮 **Tournament Highlight:**
 
-[Watch on YouTube](https://www.youtube.com/watch?v=kXNLEZweWUs&utm_source=chatgpt.com)
+https://www.youtube.com/watch?v=kXNLEZweWUs&utm
 
 To participate in **online matches** or stay updated on **upcoming competitions**, join the [Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ).
 
