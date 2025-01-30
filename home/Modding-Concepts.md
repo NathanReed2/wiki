@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-30T22:33:00.659Z
+date: 2025-01-30T22:35:42.663Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -164,7 +164,7 @@ These numbers allow the game engine to reference specific text for dialogues, me
   
 </details>
 
-# [Infantry-XML-Information-and-details](/en/home/Modding-Concepts/Infantry-XML-Information-and-details) 
+# [Infantry XML Information and Details](/en/home/Modding-Concepts/Infantry-XML-Information-and-details) 
 
 ![s_grunt01.dxt1.4108.0.255.2.93.-1.png](/s_grunt01.dxt1.4108.0.255.2.93.-1.png)![s_antiarm01.dxt1.4108.0.255.2.64.-1.png](/s_antiarm01.dxt1.4108.0.255.2.64.-1.png)![s_hose01.dxt1.4108.0.255.2.72.-1.png](/s_hose01.dxt1.4108.0.255.2.72.-1.png)![s_antiair01.dxt1.4108.0.255.2.66.-1.png](/s_antiair01.dxt1.4108.0.255.2.66.-1.png)![s_parabolic01.dxt1.4108.0.255.2.78.-1.png](/s_parabolic01.dxt1.4108.0.255.2.78.-1.png)![s_hmg01.dxt1.4108.0.255.2.62.-1.png](/s_hmg01.dxt1.4108.0.255.2.62.-1.png)
 
