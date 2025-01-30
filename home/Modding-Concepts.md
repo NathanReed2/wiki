@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-30T00:52:29.602Z
+date: 2025-01-30T00:53:01.644Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -173,37 +173,13 @@ These numbers allow the game engine to reference specific text for dialogues, me
 
 ![wf_reco01.dxt1.4108.0.255.2.20.-1.png](/wf_reco01.dxt1.4108.0.255.2.20.-1.png)![wf_ltnk01.dxt1.4108.0.255.2.21.-1.png](/wf_ltnk01.dxt1.4108.0.255.2.21.-1.png)![wf_htnk01.p8.4108.0.255.2.21.-1.png](/wf_htnk01.p8.4108.0.255.2.21.-1.png)![wf_bsta01.dxt1.4108.0.255.2.22.-1.png](/wf_bsta01.dxt1.4108.0.255.2.22.-1.png)![wf_aa01.dxt1.4108.0.255.2.19.-1.png](/wf_aa01.dxt1.4108.0.255.2.19.-1.png)![wf_art01.dxt1.4108.0.255.2.21.-1.png](/wf_art01.dxt1.4108.0.255.2.21.-1.png)
 
-
-
-- cGroundVehicle
-- cGroundVehicleBase
-- mUnitInstanceFlags
-- mPassenger
-- mRevivable
-
 # Air vehicle XML Section and detail
 
 ![wf_gshp01.dxt1.4108.0.255.2.19.-1.png](/wf_gshp01.dxt1.4108.0.255.2.19.-1.png)![wf_ftr01.dxt1.4108.0.255.2.20.-1.png](/wf_ftr01.dxt1.4108.0.255.2.20.-1.png)![wf_bomber01.dxt1.4108.0.255.2.18.-1.png](/wf_bomber01.dxt1.4108.0.255.2.18.-1.png)![wf_srato01.dxt1.4108.0.255.2.19.-1.png](/wf_srato01.dxt1.4108.0.255.2.19.-1.png)![wf_tpt01.dxt1.4108.0.255.2.22.-1.png](/wf_tpt01.dxt1.4108.0.255.2.22.-1.png)
 
-
-
-- cAirVehicle
-- sAirVehicleBase
-- mUnitInstanceFlags
-- mPassenger
-- mRevivable
-
 # Water vehicle XML Section and detail
 
 ![wf_frigate01.dxt1.4108.0.255.2.19.-1.png](/wf_frigate01.dxt1.4108.0.255.2.19.-1.png)![wf_bship01.dxt1.4108.0.255.2.19.-1.png](/wf_bship01.dxt1.4108.0.255.2.19.-1.png)![wf_dnought01.dxt1.4108.0.255.2.22.-1.png](/wf_dnought01.dxt1.4108.0.255.2.22.-1.png)![wf_sub01.dxt1.4108.0.255.2.23.-1.png](/wf_sub01.dxt1.4108.0.255.2.23.-1.png)![wf_lcraft01.dxt1.4108.0.255.2.16.-1.png](/wf_lcraft01.dxt1.4108.0.255.2.16.-1.png)
-
-
-
-- cWaterVehicle
-- cWaterVehicleBase
-- mUnitInstanceFlags
-- mPassenger
-- mRevivable
 
 # Model XML Sections and detail
 
