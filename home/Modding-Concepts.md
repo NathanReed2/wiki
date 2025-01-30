@@ -2,12 +2,10 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-30T02:05:26.538Z
+date: 2025-01-30T06:17:56.735Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
----
-
 ---
 
 > If you have any questions related to modding, join the [Battalion Wars discord server](https://discord.gg/aPvrTsDARJ)  and we'll be happy to help with anything you might be stuck on.
