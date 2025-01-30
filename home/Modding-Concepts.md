@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-30T06:25:14.486Z
+date: 2025-01-30T22:33:00.659Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -178,7 +178,7 @@ These numbers allow the game engine to reference specific text for dialogues, me
 
 ![x_grunt01.dxt1.4108.0.255.2.61.-1.png](/x_grunt01.dxt1.4108.0.255.2.61.-1.png)![x_antiarm01.dxt1.4108.0.255.2.56.-1.png](/x_antiarm01.dxt1.4108.0.255.2.56.-1.png)![x_hose01.dxt1.4108.0.255.2.55.-1.png](/x_hose01.dxt1.4108.0.255.2.55.-1.png)![x_antiair01.dxt1.4108.0.255.2.59.-1.png](/x_antiair01.dxt1.4108.0.255.2.59.-1.png)![x_parabolic01.dxt1.4108.0.255.2.63.-1.png](/x_parabolic01.dxt1.4108.0.255.2.63.-1.png)![x_hmg01.dxt1.4108.0.255.2.60.-1.png](/x_hmg01.dxt1.4108.0.255.2.60.-1.png)
 
-# Ground vehicle XML Section and detail
+# [Ground Vehicle XML Section and Details](/home/Modding-Concepts/Ground-Vehicle-XML-Section-and-Details)
 
 ![s_reco01.dxt1.4108.0.255.2.95.-1.png](/s_reco01.dxt1.4108.0.255.2.95.-1.png)![s_ltnk01.dxt1.4108.0.255.2.17.-1.png](/s_ltnk01.dxt1.4108.0.255.2.17.-1.png)![s_htnk01.dxt1.4108.0.255.2.20.-1.png](/s_htnk01.dxt1.4108.0.255.2.20.-1.png)![s_aa01.dxt1.4108.0.255.2.36.-1.png](/s_aa01.dxt1.4108.0.255.2.36.-1.png)![s_art01.dxt1.4108.0.255.2.17.-1.png](/s_art01.dxt1.4108.0.255.2.17.-1.png)
 
