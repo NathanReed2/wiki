@@ -2,13 +2,13 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-01-31T04:43:02.874Z
+date: 2025-01-31T05:22:36.545Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
 ---
 
-![wf-gunship.gif](/wf-gunship.gif)![wf-heavyrecon.gif](/wf-heavyrecon.gif)![icon_wf_ltnk01.dxt1.4108.0.255.2.16.0.gif](/icon_wf_ltnk01.dxt1.4108.0.255.2.16.0.gif)![icon_wf_htnk01.dxt1.4108.0.255.2.16.0.gif](/icon_wf_htnk01.dxt1.4108.0.255.2.16.0.gif)![wf-b-station_(1).gif](/wf-b-station_(1).gif)![icon_t_reco01.dxt1.4108.0.255.2.18.0.gif](/icon_t_reco01.dxt1.4108.0.255.2.18.0.gif)![icon_t_htnk01.dxt1.4108.0.255.2.24.0.gif](/icon_t_htnk01.dxt1.4108.0.255.2.24.0.gif)![xy-gunship.gif](/xy-gunship.gif)![icon_x_ltnk01.p8.4108.0.255.2.17.0.gif](/icon_x_ltnk01.p8.4108.0.255.2.17.0.gif)![icon_x_htnk01.dxt1.4108.0.255.2.17.0.gif](/icon_x_htnk01.dxt1.4108.0.255.2.17.0.gif)![icon_x_bsta01.dxt1.4108.0.255.2.22.0.gif](/icon_x_bsta01.dxt1.4108.0.255.2.22.0.gif)
+![wf-gunship.gif](/wf-gunship.gif)![wf-heavyrecon.gif](/wf-heavyrecon.gif)![icon_wf_ltnk01.dxt1.4108.0.255.2.16.0.gif](/icon_wf_ltnk01.dxt1.4108.0.255.2.16.0.gif)![icon_wf_htnk01.dxt1.4108.0.255.2.16.0.gif](/icon_wf_htnk01.dxt1.4108.0.255.2.16.0.gif)![wf-aatank.gif](/wf-aatank.gif)![wf-b-station_(1).gif](/wf-b-station_(1).gif)
 
 # Battalion Wars Modding and Online Competitions Wiki 
 
@@ -17,7 +17,7 @@ dateCreated: 2025-01-23T03:05:34.127Z
 
 ---
 
-## About Battalion Wars
+## About Battalion Wars 
 
 **Battalion Wars** is a real-time tactics game developed by **Kuju Entertainment** and published by **Nintendo**.
 
@@ -35,7 +35,7 @@ dateCreated: 2025-01-23T03:05:34.127Z
 Players command armies, manage units, and engage in strategic battles across various terrains.
 
 ---
-
+![icon_t_reco01.dxt1.4108.0.255.2.18.0.gif](/icon_t_reco01.dxt1.4108.0.255.2.18.0.gif)![icon_t_htnk01.dxt1.4108.0.255.2.24.0.gif](/icon_t_htnk01.dxt1.4108.0.255.2.24.0.gif)
 ## Modding Community
 
 The modding community has developed **tools and guides** to enhance and customize the **Battalion Wars** experience. These resources allow players to **modify game files, create new missions, and adjust gameplay mechanics**.
@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=kXNLEZweWUs&utm
 To participate in **online matches** or stay updated on **upcoming competitions**, join the [Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ).
 
 ---
-
+![xy-gunship.gif](/xy-gunship.gif)![icon_x_ltnk01.p8.4108.0.255.2.17.0.gif](/icon_x_ltnk01.p8.4108.0.255.2.17.0.gif)![icon_x_htnk01.dxt1.4108.0.255.2.17.0.gif](/icon_x_htnk01.dxt1.4108.0.255.2.17.0.gif)![icon_x_bsta01.dxt1.4108.0.255.2.22.0.gif](/icon_x_bsta01.dxt1.4108.0.255.2.22.0.gif)
 ## Community Resources
 
 🔹 **Discord Server** – Connect with other players, access modding support, and participate in discussions.  
