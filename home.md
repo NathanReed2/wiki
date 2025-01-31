@@ -2,13 +2,13 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-01-31T00:35:23.932Z
+date: 2025-01-31T01:35:47.966Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
 ---
 
-![tt-heavytank.gif](/tt-heavytank.gif)![tt-recon.gif](/tt-recon.gif)![wf-gunship.gif](/wf-gunship.gif)![wf-heavytank.gif](/wf-heavytank.gif)![wf-lighttank.gif](/wf-lighttank.gif)![xy-gunship.gif](/xy-gunship.gif)![xy-b-station.gif](/xy-b-station.gif)![xy-heavytank.gif](/xy-heavytank.gif)![xy-lighttank.gif](/xy-lighttank.gif)
+![tt-heavytank.gif](/tt-heavytank.gif)![tt-recon.gif](/tt-recon.gif)![wf-gunship.gif](/wf-gunship.gif)![wf-b-station.gif](/wf-b-station.gif)![wf-heavytank.gif](/wf-heavytank.gif)![wf-lighttank.gif](/wf-lighttank.gif)![xy-gunship.gif](/xy-gunship.gif)![xy-b-station.gif](/xy-b-station.gif)![xy-heavytank.gif](/xy-heavytank.gif)![xy-lighttank.gif](/xy-lighttank.gif)
 
 # Battalion Wars Modding and Online Competitions Wiki 
 
