@@ -2,13 +2,13 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-01-31T03:02:54.069Z
+date: 2025-01-31T04:43:02.874Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
 ---
 
-![wf-b-station_(1).gif](/wf-b-station_(1).gif)![icon_wf_htnk01.dxt1.4108.0.255.2.16.0.gif](/icon_wf_htnk01.dxt1.4108.0.255.2.16.0.gif)![icon_wf_ltnk01.dxt1.4108.0.255.2.16.0.gif](/icon_wf_ltnk01.dxt1.4108.0.255.2.16.0.gif)
+![wf-gunship.gif](/wf-gunship.gif)![wf-heavyrecon.gif](/wf-heavyrecon.gif)![icon_wf_ltnk01.dxt1.4108.0.255.2.16.0.gif](/icon_wf_ltnk01.dxt1.4108.0.255.2.16.0.gif)![icon_wf_htnk01.dxt1.4108.0.255.2.16.0.gif](/icon_wf_htnk01.dxt1.4108.0.255.2.16.0.gif)![wf-b-station_(1).gif](/wf-b-station_(1).gif)![icon_t_reco01.dxt1.4108.0.255.2.18.0.gif](/icon_t_reco01.dxt1.4108.0.255.2.18.0.gif)![icon_t_htnk01.dxt1.4108.0.255.2.24.0.gif](/icon_t_htnk01.dxt1.4108.0.255.2.24.0.gif)![xy-gunship.gif](/xy-gunship.gif)![icon_x_ltnk01.p8.4108.0.255.2.17.0.gif](/icon_x_ltnk01.p8.4108.0.255.2.17.0.gif)![icon_x_htnk01.dxt1.4108.0.255.2.17.0.gif](/icon_x_htnk01.dxt1.4108.0.255.2.17.0.gif)![icon_x_bsta01.dxt1.4108.0.255.2.22.0.gif](/icon_x_bsta01.dxt1.4108.0.255.2.22.0.gif)
 
 # Battalion Wars Modding and Online Competitions Wiki 
 
