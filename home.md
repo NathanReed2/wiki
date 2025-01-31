@@ -2,13 +2,14 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-01-31T02:53:13.639Z
+date: 2025-01-31T03:02:54.069Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
 ---
 
-![wf-b-station_(1).gif](/wf-b-station_(1).gif)
+![wf-b-station_(1).gif](/wf-b-station_(1).gif)![icon_wf_htnk01.dxt1.4108.0.255.2.16.0.gif](/icon_wf_htnk01.dxt1.4108.0.255.2.16.0.gif)![icon_wf_ltnk01.dxt1.4108.0.255.2.16.0.gif](/icon_wf_ltnk01.dxt1.4108.0.255.2.16.0.gif)
+
 # Battalion Wars Modding and Online Competitions Wiki 
 
 > Welcome to the **Battalion Wars Modding and Online Competitions Wiki**! This platform is dedicated to enthusiasts of the **Battalion Wars** series, focusing on **game modifications** and **online competitive play**. Whether you're a seasoned modder, a competitive player, or new to the community, you'll find valuable resources and information here and remember to join the [Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ).
