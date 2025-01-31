@@ -2,13 +2,13 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-01-31T05:22:36.545Z
+date: 2025-01-31T05:23:21.256Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
 ---
 
-![wf-gunship.gif](/wf-gunship.gif)![wf-heavyrecon.gif](/wf-heavyrecon.gif)![icon_wf_ltnk01.dxt1.4108.0.255.2.16.0.gif](/icon_wf_ltnk01.dxt1.4108.0.255.2.16.0.gif)![icon_wf_htnk01.dxt1.4108.0.255.2.16.0.gif](/icon_wf_htnk01.dxt1.4108.0.255.2.16.0.gif)![wf-aatank.gif](/wf-aatank.gif)![wf-b-station_(1).gif](/wf-b-station_(1).gif)
+
 
 # Battalion Wars Modding and Online Competitions Wiki 
 
@@ -16,7 +16,7 @@ dateCreated: 2025-01-23T03:05:34.127Z
 {.is-info}
 
 ---
-
+![wf-gunship.gif](/wf-gunship.gif)![wf-heavyrecon.gif](/wf-heavyrecon.gif)![icon_wf_ltnk01.dxt1.4108.0.255.2.16.0.gif](/icon_wf_ltnk01.dxt1.4108.0.255.2.16.0.gif)![icon_wf_htnk01.dxt1.4108.0.255.2.16.0.gif](/icon_wf_htnk01.dxt1.4108.0.255.2.16.0.gif)![wf-aatank.gif](/wf-aatank.gif)![wf-b-station_(1).gif](/wf-b-station_(1).gif)
 ## About Battalion Wars 
 
 **Battalion Wars** is a real-time tactics game developed by **Kuju Entertainment** and published by **Nintendo**.
