@@ -2,7 +2,7 @@
 title: Getting Started Modding
 description: 
 published: true
-date: 2025-01-30T21:34:07.793Z
+date: 2025-02-01T09:20:21.846Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T19:53:27.571Z
@@ -85,5 +85,6 @@ After you downloaded the **BW Level Editor**, navigate to the **CompoundFiles** 
 
 # Step 4: Editing Levels
 
-Now that you selected a level, you should have loaded into the said level you picked. Now you can start messing around, just know that it's a good idea to watch this [video](https://www.youtube.com/watch?v=1rTJXwBleuU) explaining what's in the **BW Level Editor** since the 1.0 release.
+Now that you selected a level, you should have loaded into the said level you picked. Now you can start messing around, just know that it's a good idea to watch this explaining what's in the **BW Level Editor** since the 1.0 release.
 
+https://www.youtube.com/watch?v=1rTJXwBleuU
