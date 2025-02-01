@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-01-30T22:39:01.085Z
+date: 2025-02-01T09:23:36.181Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -206,7 +206,7 @@ These numbers allow the game engine to reference specific text for dialogues, me
 
 ![x_gshp01.dxt1.4108.0.255.2.21.-1.png](/x_gshp01.dxt1.4108.0.255.2.21.-1.png)![x_ftr01.dxt1.4108.0.255.2.19.-1.png](/x_ftr01.dxt1.4108.0.255.2.19.-1.png)![x_bomber01.dxt1.4108.0.255.2.22.-1.png](/x_bomber01.dxt1.4108.0.255.2.22.-1.png)![x_srato01.dxt1.4108.0.255.2.21.-1.png](/x_srato01.dxt1.4108.0.255.2.21.-1.png)![x_tpt01.dxt1.4108.0.255.2.20.-1.png](/x_tpt01.dxt1.4108.0.255.2.20.-1.png)
 
-# Water vehicle XML Section and detail
+# [Water Vehicle XML Section and Details](/home/Modding-Concepts/Water-Vehicle-XML-Section-and-Details)
 
 ![s_frigate01.dxt1.4108.0.255.2.21.-1.png](/s_frigate01.dxt1.4108.0.255.2.21.-1.png)![s_bshp01.dxt1.4108.0.255.2.18.-1.png](/s_bshp01.dxt1.4108.0.255.2.18.-1.png)![s_dnought01.dxt1.4108.0.255.2.29.-1.png](/s_dnought01.dxt1.4108.0.255.2.29.-1.png)![s_sub01.dxt1.4108.0.255.2.12.-1.png](/s_sub01.dxt1.4108.0.255.2.12.-1.png)![s_lcraft01.dxt1.4108.0.255.2.12.-1.png](/s_lcraft01.dxt1.4108.0.255.2.12.-1.png)
 
