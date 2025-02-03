@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-02-01T09:23:36.181Z
+date: 2025-02-03T22:33:24.206Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -182,7 +182,7 @@ These numbers allow the game engine to reference specific text for dialogues, me
 
 ![s_reco01.dxt1.4108.0.255.2.95.-1.png](/s_reco01.dxt1.4108.0.255.2.95.-1.png)![s_ltnk01.dxt1.4108.0.255.2.17.-1.png](/s_ltnk01.dxt1.4108.0.255.2.17.-1.png)![s_htnk01.dxt1.4108.0.255.2.20.-1.png](/s_htnk01.dxt1.4108.0.255.2.20.-1.png)![s_aa01.dxt1.4108.0.255.2.36.-1.png](/s_aa01.dxt1.4108.0.255.2.36.-1.png)![s_art01.dxt1.4108.0.255.2.17.-1.png](/s_art01.dxt1.4108.0.255.2.17.-1.png)
 
-![wf_reco01.dxt1.4108.0.255.2.20.-1.png](/wf_reco01.dxt1.4108.0.255.2.20.-1.png)![wf_ltnk01.dxt1.4108.0.255.2.21.-1.png](/wf_ltnk01.dxt1.4108.0.255.2.21.-1.png)![wf_htnk01.p8.4108.0.255.2.21.-1.png](/wf_htnk01.p8.4108.0.255.2.21.-1.png)![wf_bsta01.dxt1.4108.0.255.2.22.-1.png](/wf_bsta01.dxt1.4108.0.255.2.22.-1.png)![wf_aa01.dxt1.4108.0.255.2.19.-1.png](/wf_aa01.dxt1.4108.0.255.2.19.-1.png)![wf_art01.dxt1.4108.0.255.2.21.-1.png](/wf_art01.dxt1.4108.0.255.2.21.-1.png)
+![wf_reco01.dxt1.4108.0.255.2.20.-1.png](/wf_reco01.dxt1.4108.0.255.2.20.-1.png)![wf_heavy_recon.png](/wf_heavy_recon.png)![wf_apc2.png](/wf_apc2.png)![wf_ltnk01.dxt1.4108.0.255.2.21.-1.png](/wf_ltnk01.dxt1.4108.0.255.2.21.-1.png)![wf_htnk01.p8.4108.0.255.2.21.-1.png](/wf_htnk01.p8.4108.0.255.2.21.-1.png)![wf_bsta01.dxt1.4108.0.255.2.22.-1.png](/wf_bsta01.dxt1.4108.0.255.2.22.-1.png)![wf_aa01.dxt1.4108.0.255.2.19.-1.png](/wf_aa01.dxt1.4108.0.255.2.19.-1.png)![wf_art01.dxt1.4108.0.255.2.21.-1.png](/wf_art01.dxt1.4108.0.255.2.21.-1.png)
 
 ![ai_ltnk01.dxt1.4108.0.255.2.39.-1.png](/ai_ltnk01.dxt1.4108.0.255.2.39.-1.png)![ai_htnk01.dxt1.4108.0.255.2.36.-1.png](/ai_htnk01.dxt1.4108.0.255.2.36.-1.png)![ai_art01.dxt1.4108.0.255.2.27.-1.png](/ai_art01.dxt1.4108.0.255.2.27.-1.png)
 
