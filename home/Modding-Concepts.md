@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-02-03T22:33:24.206Z
+date: 2025-02-04T21:14:05.107Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -61,9 +61,9 @@ For more detailed information, check out the [PF2 Documentation](/en/home/Moddin
 <details>
 <summary>What’s a ".res" file?</summary>
   
-Battalion Wars 1 and 2 utilize resource files with the **.res** extension to store various assets for each level including models, textures, sounds, animations, effects, and scripts.
-
-Each level has its own dedicated resource file. By default, levels cannot access assets that are not contained within their respective **.res** file.
+Battalion Wars 1 and 2 utilize resource files with the **.res** extension to store various assets for each level including models, textures, sounds, animations, effects, and scripts. Each level has its own dedicated resource file. By default, levels cannot access assets that are not contained within their respective **.res** file.
+  
+For more detailed information, check out the [Res-File-Detailed-Documentation](/home/Modding-Concepts/Res-File-Detailed-Documentation) page to learn more.
 
 <br>  
   
