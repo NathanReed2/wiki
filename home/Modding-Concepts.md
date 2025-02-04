@@ -2,8 +2,8 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-02-04T21:14:05.107Z
-tags: 
+date: 2025-02-04T23:23:17.765Z
+tags: modding, modding documentation
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
 ---
