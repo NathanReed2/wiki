@@ -2,8 +2,8 @@
 title: Getting Started Modding
 description: 
 published: true
-date: 2025-02-01T09:20:21.846Z
-tags: 
+date: 2025-02-04T23:21:15.874Z
+tags: modding
 editor: markdown
 dateCreated: 2025-01-23T19:53:27.571Z
 ---
