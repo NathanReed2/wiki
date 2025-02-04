@@ -1,9 +1,9 @@
 ---
 title: Modding Tools
-description: 
+description: A list detailing the tools used in modding Battalion Wars.
 published: true
-date: 2025-02-01T19:42:07.818Z
-tags: 
+date: 2025-02-04T23:20:40.173Z
+tags: tools
 editor: markdown
 dateCreated: 2025-01-23T20:13:39.459Z
 ---
