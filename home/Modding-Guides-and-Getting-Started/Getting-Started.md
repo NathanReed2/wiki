@@ -2,7 +2,7 @@
 title: Getting Started Modding
 description: 
 published: true
-date: 2025-02-04T23:21:15.874Z
+date: 2025-02-05T21:45:43.503Z
 tags: modding
 editor: markdown
 dateCreated: 2025-01-23T19:53:27.571Z
@@ -20,7 +20,7 @@ dateCreated: 2025-01-23T19:53:27.571Z
 
 # Step 1: Extract Game Files
 
-The first thing you want to do is make an **"Extracted"** version of **Battalion Wars 1** and/or **Battalion Wars 2**, you can do so by clicking the link below and watching the video.
+The first thing you want to do is make an **"Extracted"** version of **Battalion Wars 1** and/or **Battalion Wars 2**, you can do so by watching the video.
 
 
 https://www.youtube.com/watch?v=plUi3Ak-B98
