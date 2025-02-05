@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-02-05T21:04:12.809Z
+date: 2025-02-05T21:07:09.528Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -26,7 +26,7 @@ dateCreated: 2025-01-23T03:05:34.127Z
 | The series includes two titles | Platform |
 |---|---|
 | [bw1_tittle.mp4](/bw1_tittle.mp4) | ![gclogo-removebg-preview_(1).png](/gclogo-removebg-preview_(1).png) |
-|  | ![wiilogo-removebg-preview_(2).png](/wiilogo-removebg-preview_(2).png) |
+| [bw2_tittle.mp4](/bw2_tittle.mp4) | ![wiilogo-removebg-preview_(2).png](/wiilogo-removebg-preview_(2).png) |
 
 
 
