@@ -2,13 +2,13 @@
 title: Developer Credits
 description: 
 published: false
-date: 2025-02-05T02:04:16.158Z
+date: 2025-02-05T02:05:48.296Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T22:42:50.731Z
 ---
 
-# **Game Credits**
+# **Credits For Battalion Wars 2**
 
 ## **For Kuju London**
 
