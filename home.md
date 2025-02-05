@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-02-05T21:51:11.851Z
+date: 2025-02-05T21:52:06.939Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -44,6 +44,10 @@ The modding community has developed **tools and guides** to enhance and customiz
 
 The **Battalion Wars** community actively organizes **online tournaments** and **matches**, fostering a competitive environment for players.
 
+📺 **YouTube Channel** – Watch gameplay of tournament macthes and highlights.  
+
+https://www.youtube.com/watch?v=20-2CBec-08&utm
+
 Regular events, such as the **Summer Tournament 2023**, showcased high-level gameplay and strategies.
 
 🎮 **Tournament Highlight:**
@@ -56,10 +60,6 @@ https://www.youtube.com/watch?v=kXNLEZweWUs&utm
 ---
 ![xy-gunship.gif](/xy-gunship.gif)![icon_x_ltnk01.p8.4108.0.255.2.17.0.gif](/icon_x_ltnk01.p8.4108.0.255.2.17.0.gif)![icon_x_htnk01.dxt1.4108.0.255.2.17.0.gif](/icon_x_htnk01.dxt1.4108.0.255.2.17.0.gif)![icon_x_bsta01.dxt1.4108.0.255.2.22.0.gif](/icon_x_bsta01.dxt1.4108.0.255.2.22.0.gif)
 ## Community Resources
-
-📺 **YouTube Channel** – Watch gameplay of tournament macthes and highlights.  
-
-https://www.youtube.com/watch?v=20-2CBec-08&utm
 
 📜 **Modding Journal** – Explore detailed entries on modding experiments, tools, and discoveries.  
 [Read here](https://koopanique.neocities.org/video_games/battalion_wars-modding_journal)
