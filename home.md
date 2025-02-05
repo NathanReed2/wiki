@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-02-05T20:46:53.137Z
+date: 2025-02-05T20:47:31.983Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -29,7 +29,7 @@ dateCreated: 2025-01-23T03:05:34.127Z
 | ![bwii_logo.p8.4116.0.255.7.256.-1.png](/bwii_logo.p8.4116.0.255.7.256.-1.png) | ![wiilogo-removebg-preview_(2).png](/wiilogo-removebg-preview_(2).png) |
 
 
-[bw1_tittle.mp4](/bw1_tittle.mp4)
+
 
 
 Players command armies, manage units, and engage in strategic battles across various terrains.
