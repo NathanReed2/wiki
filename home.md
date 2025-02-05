@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-02-05T21:26:05.639Z
+date: 2025-02-05T21:51:11.851Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -50,16 +50,14 @@ Regular events, such as the **Summer Tournament 2023**, showcased high-level gam
 
 https://www.youtube.com/watch?v=kXNLEZweWUs&utm
 
-To participate in **online matches** or stay updated on **upcoming competitions**, join the [Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ).
+> To participate in **online matches** or stay updated on **upcoming competitions**, join the [Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ).
+{.is-info}
 
 ---
 ![xy-gunship.gif](/xy-gunship.gif)![icon_x_ltnk01.p8.4108.0.255.2.17.0.gif](/icon_x_ltnk01.p8.4108.0.255.2.17.0.gif)![icon_x_htnk01.dxt1.4108.0.255.2.17.0.gif](/icon_x_htnk01.dxt1.4108.0.255.2.17.0.gif)![icon_x_bsta01.dxt1.4108.0.255.2.22.0.gif](/icon_x_bsta01.dxt1.4108.0.255.2.22.0.gif)
 ## Community Resources
 
-🔹 **Discord Server** – Connect with other players, access modding support, and participate in discussions.  
-[Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ)
-
-📺 **YouTube Channel** – Watch gameplay videos and tournament highlights.  
+📺 **YouTube Channel** – Watch gameplay of tournament macthes and highlights.  
 
 https://www.youtube.com/watch?v=20-2CBec-08&utm
 
