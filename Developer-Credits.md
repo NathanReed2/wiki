@@ -2,7 +2,7 @@
 title: Developer Credits
 description: 
 published: false
-date: 2025-02-05T02:02:39.177Z
+date: 2025-02-05T02:04:16.158Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T22:42:50.731Z
@@ -253,7 +253,25 @@ dateCreated: 2025-02-04T22:42:50.731Z
 - Christian Massi  
 
 ### **Validation and Testing Team**
-(See original document for names)  
+- Oliver Scarborough  
+- Nick Ziegler  
+- Erik Lindner  
+- Wolfgang Graf  
+- Daniela Völker  
+- Sascha Voß  
+- Kaveh Moussavian  
+- Renaud Gallego  
+- Stéphane Dumain  
+- Jérôme Bollinger  
+- Alessandro Elsisi  
+- Kent Robello  
+- Antonio Pieri  
+- Samuele Lazzari  
+- Sergio Muñoz Morote  
+- Juan de la Vega Senar  
+- Carles Arenado de Irízar  
+- Fátima Sayyad Hernando
+
 
 ### **Special Thanks**
 - Tom Prata  
