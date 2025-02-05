@@ -1,8 +1,8 @@
 ---
-title: Developer Credits
-description: 
+title: Battalion Wars 2 Developer Credits
+description: All the credits from Battalion Wars 2.
 published: false
-date: 2025-02-05T02:05:48.296Z
+date: 2025-02-05T05:20:36.832Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-04T22:42:50.731Z
