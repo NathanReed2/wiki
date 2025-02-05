@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-02-05T20:50:00.922Z
+date: 2025-02-05T20:50:40.907Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -28,7 +28,7 @@ dateCreated: 2025-01-23T03:05:34.127Z
 | ![battalionwarslog.p8.20.0.255.8.253.-1.png](/battalionwarslog.p8.20.0.255.8.253.-1.png) | ![gclogo-removebg-preview_(1).png](/gclogo-removebg-preview_(1).png) |
 | ![bwii_logo.p8.4116.0.255.7.256.-1.png](/bwii_logo.p8.4116.0.255.7.256.-1.png) | ![wiilogo-removebg-preview_(2).png](/wiilogo-removebg-preview_(2).png) |
 
-[bw1_tittle.mp4](/bw1_tittle.mp4)
+
 
 
 
