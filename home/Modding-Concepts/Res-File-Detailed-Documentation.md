@@ -2,7 +2,7 @@
 title: Res File Detailed Documentation
 description: In Depth Information on how the RES or Resource File works. 
 published: true
-date: 2025-02-04T21:10:23.059Z
+date: 2025-02-06T03:11:06.401Z
 tags: res file
 editor: markdown
 dateCreated: 2025-02-04T21:08:09.498Z
@@ -56,5 +56,7 @@ dateCreated: 2025-02-04T21:08:09.498Z
 
 ---
 
-**Note:**  
-The exact definitions of the data entries and sections in **BW1** are still a work in progress.
+> **Note:**  
+> The exact definitions of the data entries and sections in **BW1** are still a work in progress.
+{.is-warning}
+
