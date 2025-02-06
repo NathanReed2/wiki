@@ -2,7 +2,7 @@
 title: Modding Guides
 description: 
 published: true
-date: 2025-02-06T03:04:27.995Z
+date: 2025-02-06T03:04:58.276Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T20:03:45.704Z
@@ -17,7 +17,7 @@ dateCreated: 2025-01-23T20:03:45.704Z
 
 We know Battalion Wars soundtrack is awesome! But what if I told you you can use any custom music throughout the whole mission or in a specific section of a mission.
 
-## -  How to change a level’s music
+### How to change a level’s music
 
 **Tools needed:**
 
@@ -37,7 +37,7 @@ We know Battalion Wars soundtrack is awesome! But what if I told you you can use
 
 ---
 
-## - How to add a custom music in a mission’s section
+### How to add a custom music in a mission’s section
 
 <details>
 <summary>Example for you to try</summary>
@@ -47,7 +47,7 @@ We know Battalion Wars soundtrack is awesome! But what if I told you you can use
 <br><br>
 </details>
 
-## - How to add custom CO audio lines
+### How to add custom CO audio lines
 
 <details>
 <summary>Example for you to try</summary>
