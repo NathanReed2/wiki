@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-02-06T03:12:42.380Z
+date: 2025-02-06T03:13:43.423Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -33,7 +33,7 @@ dateCreated: 2025-01-23T03:05:34.127Z
 Players command armies, manage units, and engage in strategic battles across various terrains.
 
 ---
-![icon_t_reco01.dxt1.4108.0.255.2.18.0.gif](/icon_t_reco01.dxt1.4108.0.255.2.18.0.gif)![icon_t_htnk01.dxt1.4108.0.255.2.24.0.gif](/icon_t_htnk01.dxt1.4108.0.255.2.24.0.gif)
+
 ## Modding Community
 
 The modding community has developed **tools and guides** to enhance and customize the **Battalion Wars** experience. These resources allow players to **modify game files, create new missions, and adjust gameplay mechanics**.
@@ -58,6 +58,8 @@ https://www.youtube.com/watch?v=kXNLEZweWUs&utm
 {.is-info}
 
 ---
+
+![icon_t_reco01.dxt1.4108.0.255.2.18.0.gif](/icon_t_reco01.dxt1.4108.0.255.2.18.0.gif)![icon_t_htnk01.dxt1.4108.0.255.2.24.0.gif](/icon_t_htnk01.dxt1.4108.0.255.2.24.0.gif)
 
 ## Community Resources
 
