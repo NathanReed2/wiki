@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-02-05T21:52:06.939Z
+date: 2025-02-06T03:12:42.380Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=kXNLEZweWUs&utm
 {.is-info}
 
 ---
-![xy-gunship.gif](/xy-gunship.gif)![icon_x_ltnk01.p8.4108.0.255.2.17.0.gif](/icon_x_ltnk01.p8.4108.0.255.2.17.0.gif)![icon_x_htnk01.dxt1.4108.0.255.2.17.0.gif](/icon_x_htnk01.dxt1.4108.0.255.2.17.0.gif)![icon_x_bsta01.dxt1.4108.0.255.2.22.0.gif](/icon_x_bsta01.dxt1.4108.0.255.2.22.0.gif)
+
 ## Community Resources
 
 📜 **Modding Journal** – Explore detailed entries on modding experiments, tools, and discoveries.  
@@ -66,6 +66,9 @@ https://www.youtube.com/watch?v=kXNLEZweWUs&utm
 
 ---
 
+![xy-gunship.gif](/xy-gunship.gif)![icon_x_ltnk01.p8.4108.0.255.2.17.0.gif](/icon_x_ltnk01.p8.4108.0.255.2.17.0.gif)![icon_x_htnk01.dxt1.4108.0.255.2.17.0.gif](/icon_x_htnk01.dxt1.4108.0.255.2.17.0.gif)![icon_x_bsta01.dxt1.4108.0.255.2.22.0.gif](/icon_x_bsta01.dxt1.4108.0.255.2.22.0.gif)
+
 We encourage all members to **contribute** by sharing their **mods, strategies, and experiences**.
 
 Together, we can continue to **expand and enrich** the **Battalion Wars** community.
+
