@@ -2,7 +2,7 @@
 title: PF2 Documentation
 description: detailed .pf2 information
 published: true
-date: 2025-01-30T06:23:57.912Z
+date: 2025-03-27T04:42:48.220Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-27T05:24:23.353Z
@@ -50,7 +50,7 @@ The calculations for these map zones are pre-processed in this file for faster p
 
 --- 
 
-> Back to [Modding-Dictionary](/en/home/Modding-Dictionary)
+> Back to [Modding-Concepts](/home/Modding-Concepts)
 {.is-info}
 
 > Back to [Battalion Wars Home Page](/en/home)
