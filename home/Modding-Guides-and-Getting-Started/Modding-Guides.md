@@ -2,7 +2,7 @@
 title: Modding Guides
 description: 
 published: true
-date: 2025-03-27T04:38:42.122Z
+date: 2025-03-27T04:40:00.230Z
 tags: modding, guides
 editor: markdown
 dateCreated: 2025-01-23T20:03:45.704Z
@@ -17,7 +17,7 @@ dateCreated: 2025-01-23T20:03:45.704Z
 
 We know Battalion Wars soundtrack is awesome! But what if I told you you can use any custom music throughout the whole mission or in a specific section of a mission.
 
-Here's a video showing where all the music, troop banter, weapons sounds, vehicle sounds, CO lines and more!
+Here's a video showing where all the music, troop banter, weapon sounds, vehicle sounds, CO lines and more!
 
 https://www.youtube.com/watch?v=zNl71xYL6bs
 
