@@ -2,13 +2,11 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-02-06T03:13:43.423Z
+date: 2025-03-27T03:22:49.278Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
 ---
-
-![wf-kse-station_(2).gif](/wf-kse-station_(2).gif)
 
 # Battalion Wars Modding and Online Competitions Wiki 
 
