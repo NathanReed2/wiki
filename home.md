@@ -2,7 +2,7 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-03-27T03:22:49.278Z
+date: 2025-03-27T03:30:56.604Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
@@ -23,9 +23,8 @@ dateCreated: 2025-01-23T03:05:34.127Z
 
 | The series includes two titles | Platform |
 |---|---|
-| [bw1_tittle.mp4](/bw1_tittle.mp4) | ![gclogo-removebg-preview_(1).png](/gclogo-removebg-preview_(1).png) |
-| [bw2_tittle01.mp4](/bw2_tittle01.mp4) | ![wiilogo-removebg-preview_(2).png](/wiilogo-removebg-preview_(2).png) |
-
+| <img src="/battalionwars.jpg" width="200" height="270"> | <img src="/gclogo-removebg-preview_(1).png" width="100" height="100"> |
+| <img src="/battalion_wars_2.jpg" width="200" height="270"> | <img src="/wiilogo-removebg-preview_(2).png" width="100" height="100"> |
 
 
 Players command armies, manage units, and engage in strategic battles across various terrains.
