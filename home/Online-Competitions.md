@@ -2,7 +2,7 @@
 title: Online Competitions
 description: 
 published: true
-date: 2025-05-05T17:48:25.594Z
+date: 2025-05-05T18:06:12.967Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T04:17:36.354Z
@@ -78,44 +78,182 @@ The player must fill out a **Google Form** of registration that we will provide 
 
 ---
 
-## Rules
 
-### Main Rules
 
-- Must join the **Battalion Wars Discord** server.  
-- Participants need an online connection (Zwei and/or Wimmfi).  
+## Main Rules
+
+#### Basic Rules
+- Players must join the **Battalion Wars Discord** server.  
+- Participants must have an online connection:
+  - **PC players**: Zwei **+** Wimmfi  
+  - **Wii players**: Wimmfi only  
 - All multiplayer missions must be unlocked.  
 - **Mods** or **cheats** are forbidden.  
-- Maps are chosen randomly via the server bot.  
-- Participants receive the `@Tournament Participant` role while each competition is live.  
-- Participants must report results to organizers.
+- Maps are chosen randomly by the server bot.  
+- While a competition is live, participants receive the `@Tournament Participant` role.  
+- After each match, participants must report to organizers:
+  - Number of victories and defeats  
+  - Maps played  
+  - In **Assault**: attacker/defender wins  
+  - In **Skirmish**: nation used  
 
-*(…full “Main Rules” content here…)*
+#### Recommendations
+- For help with Zwei or Wimmfi connections, contact **LGG**.  
+- Join `@Multiplayer (BW2)` for pickup matches.  
+- Keep a consistent Discord name; if you change it, notify organizers so archives stay accurate.  
+- Recording battles is encouraged but not mandatory.  
+- Streaming to YouTube/Twitch is highly encouraged.  
+
+#### Map Rules
+- **Armada**: Do **not** attack land structures during “Sea Forts.”  
+- **Sand Castles**: Air base capture is disallowed.  
+- **Battlestations**: Do **not** disturb enemy infantry capturing your factory until both factories are capped.  
+
+#### The “Quick Change”
+Switching units grants a brief protective layer. **Conscious use** is dishonorable if it is:
+1. Constant across battles  
+2. Excessive within a single map  
+3. Decisive (used with key units in strategic spots)  
+
+#### The “Spawn Kill” (Skirmish only)
+Trapping an opponent in their spawn area is dishonorable.  
+
+#### “Camping at the Spawn Base” (Skirmish only)
+Hiding in the risk zone near spawn is dishonorable.  
+
+#### Surrender
+If you surrender, notify the organizers immediately; your opponent is awarded the win.  
+
+#### Player Expulsion
+Rule violations or extended inactivity may result in expulsion from the competition.  
+
+#### Abandon
+A player may abandon by notifying organizers:
+- Remaining matches against other opponents are counted as **auto‑wins** for those opponents.  
+- Statistics from matches already played remain valid.  
+
+#### Controversies
+1. Players first attempt to resolve issues by discussion.  
+2. Options include replaying the match or accepting the result.  
+3. If unresolved, escalate to the organizers.  
+4. Submit facts, opinions, evidence, and a proposed solution.  
+5. Organizers issue a **Provisional Decision**.  
+6. Appeals are allowed for 2 days; thereafter a **Definitive Decision** is final.  
+
+#### Pending Battles (League mode)
+- If **both** players are at fault: 0–0 (no points awarded).  
+- If **one** player is at fault: opponent receives 3 points per unplayed match.  
+- If both made good‑faith attempts but one was more proactive: that player earns 1 point per match.  
+
+#### Connection Issues
+- **Pre‑match** failures to join Zwei/Wimmfi:
+  - If not fixed before half the competition window, treated as an **abandon**.  
+- **Chronic failures** (two failed attempts): remaining matches count as wins for the opponent.  
+- **In‑match** disconnects:
+  - Distinguish genuine network drops from other issues.  
+  - Lost connection → replay the same map and nations.  
+  - Suspicious repeated drops → escalate to organizers.  
+
+#### Preference Order
+When players are tied on points:
+1. The player with **more battles played** ranks higher.  
+2. If still tied, they **share the position** (unless the tie affects advancement to the next phase).  
+
 
 ---
 
 ## Ranks
 
-At the end of each event, participants receive a **Rank** (S – A – B – C – D) based on performance.
+*Content sourced from **1. BW Online Competitions.pdf** 
 
-*(…full “Ranks” content here…)*
+There are five ranks assigned at the end of each competition, based on performance in that event:
+
+### Assault Championships
+- **Rank S**: 80 – 100 % of possible points in the First Phase, or qualifies for the Final 4  
+- **Rank A**: 60 – 80 % of possible points in the First Phase  
+- **Rank B**: 40 – 60 % of possible points in the First Phase  
+- **Rank C**: 20 – 40 % of possible points in the First Phase  
+- **Rank D**: 0 – 20 % of possible points in the First Phase  
+
+### Skirmish Championships
+- **Rank S**: 80 – 100 % of possible points in the First Phase, or qualifies for the Final 4  
+- **Rank A**: 60 – 80 % of possible points in the First Phase  
+- **Rank B**: 40 – 60 % of possible points in the First Phase  
+- **Rank C**: 20 – 40 % of possible points in the First Phase  
+- **Rank D**: 0 – 20 % of possible points in the First Phase  
+
+### Alliance of Nations League
+- **Rank S**: 80 – 100 % of league points  
+- **Rank A**: 60 – 80 % of league points  
+- **Rank B**: 40 – 60 % of league points  
+- **Rank C**: 20 – 40 % of league points  
+- **Rank D**: 0 – 20 % of league points  
+
+### World Cup
+- **Rank S**: Champion, finalist, or third‐place finisher  
+- **Rank A**: Semifinalists  
+- **Rank B**: Quarterfinalists  
+- **Rank C**: Round of 16 exit  
+- **Rank D**: Group‐stage exit  
+
+### Fort Gridiron
+> **No ranks** are assigned in this friendly competition.  
 
 ---
 
 ## Ranking
 
-Two cumulative tables:
+*Content sourced from **1. BW Online Competitions.pdf***
 
-- **Annual Ranking**: Sum of points earned in one year  
-- **Global Ranking**: All‑time point total  
+Two cumulative tables (in the “Hall of Fame” Drive folder):
 
-*(…full “Ranking” content here…)*
+- **Annual Ranking**: Sum of points earned in one calendar year  
+- **Global Ranking**: All‑time total points  
+
+**Points are derived from:**
+- Position in the Assault Championships  
+- Position in the Skirmish Championships  
+- Position in the Alliance of Nations League  
+- Position in the World Cup  
+- Total victories (only counted for played battles)
+
+> *Note: Fort Gridiron participation does **not** affect these rankings.*
+
 
 ---
 
 ## Trophies, Rewards and Achievements
 
-*(…full “Trophies, Rewards and Achievements” content here…)*
+In the Google Drive created, a folder called **“Hall of Fame”** will be created where the different award‑winning participants can view their honors.
+
+### Prizes awarded at the end of each competition (*)
+
+- **First, Second & Third Place Medals:** awarded to the top three finishers in individual competitions, or to the entire team in team events  
+- **Breakthrough Player:** given to the competitor who most surprised with their performance; organizers choose based on performance, participation, evolution, etc.  
+- **Promising Player:** awarded to the competitor with the greatest potential; organizers choose based on performance, participation, evolution, etc.  
+- **Best Game:** awarded for the best single match; candidates submit recordings or YouTube links, and organizers choose based on difficulty, map type, playability, etc.  
+- **Best Moment:** awarded for the most impressive move; candidates submit video clips or timestamps, and organizers choose based on difficulty, usefulness in battle, uniqueness, etc.  
+
+> (*) Other trophies or rewards may be added if competition formats change.
+
+### Awards given at the “Battalion Wars Awards”  
+*(the “XXXX” denotes the year)*
+
+- **Gold / Silver / Bronze MVP XXXX:** for the players with the best overall results of the year  
+- **Golden / Silver / Bronze Cannon XXXX:** for the players with the most wins during the year  
+- **Skirmish God / Master / General XXXX:** for the top Skirmish competitors  
+- **Assault God / Master / General XXXX:** for the top Assault competitors  
+- **Breakthrough Player of XXXX:** popular‑vote award among four “Revelation Player” finalists  
+- **Promising Player of XXXX:** popular‑vote award among four “Promising Player” finalists  
+- **Best Game of XXXX:** popular‑vote award among four “Best Game” finalists  
+- **Best Moment of XXXX:** popular‑vote award among four “Best Moment” finalists  
+- **Team of the Year XXXX:** fan‑voted selection of the five best players of the year  
+- **Nation Ambassador of XXXX:** awarded to the top player from each nation, based on points  
+- **Rookie of the Year XXXX:** awarded to the player finishing first on the Fort Gridiron leaderboard :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}
+
+### The Battalion Wars achievements
+
+For those familiar with Steam, PlayStation, or Xbox achievement systems, this will be a list of in‑game accomplishments you can earn by participating and advancing in the various “Battalion Wars Online Competitions.” New achievements may be added as ideas arise.
 
 ---
 
@@ -587,7 +725,8 @@ Organizers will resolve any situation not explicitly covered by these rules.
 
 > *If you have any multiplayer questions, join the [Battalion Wars Discord](https://discord.gg/aPvrTsDARJ) and ping LGG.*
 
-
+## Content Pulled from this google drive folder
+https://drive.google.com/drive/folders/1B-fQIuDR9U0sDfpTiIDtHOAId8K3ZxT3
 
 
 
