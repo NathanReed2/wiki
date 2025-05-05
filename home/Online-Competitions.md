@@ -2,7 +2,7 @@
 title: Online Competitions
 description: 
 published: true
-date: 2025-05-05T18:06:12.967Z
+date: 2025-05-05T20:10:23.659Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T04:17:36.354Z
@@ -13,7 +13,7 @@ dateCreated: 2025-01-23T04:17:36.354Z
 
 The Battalion Wars community never stops growing, and more and more projects and ideas make this community ever so active. One of the main sources of community growth is **multiplayer**. The competitions that have been organized so far have allowed the community to gather around the same event, as well as introducing this fantastic game and its fun multiplayer mode to many people.
 
-Because of our ambition and our desire to see the community grow relentlessly, we want to propose a calendar of competitions throughout the year, with rewards, titles and ceremonies at the end of each competition and each year to bring even more life to the community.
+Because of our ambition and our desire to see the community grow relentlessly, we want to propose a calendar of competitions throughout the year, with rewards, titles and ceremonies at the end of each competition and each year to bring even more life to the community : the BATTALION WARS ONLINE COMPETITIONS
 
 ---
 
@@ -725,8 +725,8 @@ Organizers will resolve any situation not explicitly covered by these rules.
 
 > *If you have any multiplayer questions, join the [Battalion Wars Discord](https://discord.gg/aPvrTsDARJ) and ping LGG.*
 
-## Content Pulled from this google drive folder
-https://drive.google.com/drive/folders/1B-fQIuDR9U0sDfpTiIDtHOAId8K3ZxT3
+## Content Pulled from this Google drive folder
+https://drive.google.com/drive/folders/1SHCJpkkhUtK-mMnXSA59eerQqEgh8dlA?usp=sharing
 
 
 
