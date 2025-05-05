@@ -2,7 +2,7 @@
 title: Online Competitions
 description: 
 published: true
-date: 2025-05-05T17:36:07.352Z
+date: 2025-05-05T17:37:21.036Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T04:17:36.354Z
@@ -20,8 +20,7 @@ Because of our ambition and our desire to see the community grow relentlessly, w
 ---
 
 **Table of Contents**
-
-- [Overview](#overview)  
+ 
 - [Calendar](#calendar)  
 - [Sign Up](#sign-up)  
 - [Rules](#rules)  
