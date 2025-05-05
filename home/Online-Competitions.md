@@ -2,7 +2,7 @@
 title: Online Competitions
 description: 
 published: true
-date: 2025-05-05T17:39:41.475Z
+date: 2025-05-05T17:48:25.594Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T04:17:36.354Z
@@ -136,7 +136,7 @@ This document is the foundation for Battalion Wars competitions. Questions or er
 <details id="assault-championships">
 <summary><strong>Assault Championships</strong></summary>
 
-*Content sourced from **2. Assault Championships.pdf* :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}
+*Content sourced from [Assault Championships PDF](https://drive.google.com/file/d/1uueKRgiZefi9CJXgAsul8gRZBPC3_aO2/view?usp=drive_link)*
 
 ### 1. Sign Up
 
@@ -226,7 +226,7 @@ If you have any questions, complaints, or bug reports, contact **FanBattalion** 
 <details id="skirmish-championships">
 <summary><strong>Skirmish Championships</strong></summary>
 
-*Content sourced from **3. Skirmish Championships.pdf** :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}*
+*Content sourced from [Skirmish Championships PDF](https://drive.google.com/file/d/1o_txu5__m_QoHwvmwDZ7Uc5Lw4OioQDm/view?usp=drive_link)*
 
 ### 1. Sign Up
 
@@ -292,7 +292,7 @@ The Skirmish Championships use a **League** format with two phases:
 <details id="alliance-of-nations-league">
 <summary><strong>Alliance of Nations League</strong></summary>
 
-*Content sourced from **4. Alliance of Nations.pdf** :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}*
+*Content sourced from [Alliance of Nations PDF](https://drive.google.com/file/d/1LhwXjcqlzBJdQPahuSPnN8ojmaLizukZ/view?usp=drive_link)*
 
 ### 1. Sign Up
 - **Registration window:** May 10 – May 25  
@@ -384,7 +384,7 @@ For any questions, issues, complaints, or bug reports, contact **FanBattalion** 
 <details id="fort-gridiron">
 <summary><strong>Fort Gridiron (Friendly Competition)</strong></summary>
 
-*Content sourced from **6. Fort Gridiron.pdf** :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}*
+*Content sourced from [Fort Gridiron PDF](https://drive.google.com/file/d/1H3Pi3qFesbm-n9vHcRxbDYmNpWXGJKPw/view?usp=drive_link)*
 
 ### 1. What is Fort Gridiron?
 Pay attention, Commander! Fort Gridiron is the training camp for Western Frontier soldiers—you can see it at the entrance to Fort in Mission 1 of Battalion Wars 1. We’ve turned Fort Gridiron into a **Friendly Competition** designed to prepare newcomers: only players with a very low rank in official competitions or brand‑new multiplayer participants may enter.  
@@ -466,7 +466,7 @@ For questions, problems, complaints, or bug reports, contact **FanBattalion** or
 <details id="world-cup">
 <summary><strong>World Cup</strong></summary>
 
-*Content sourced from **5. World Cup.pdf** :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}*
+*Content sourced from [World Cup PDF](https://drive.google.com/file/d/1qSBeOgv1xvqD79Q3xrTqQSJf-ROOZU7z/view?usp=drive_link)*
 
 ### 1. Sign Up
 
