@@ -2,7 +2,7 @@
 title: Online Competitions
 description: 
 published: true
-date: 2025-05-05T20:29:06.995Z
+date: 2025-05-05T20:30:54.523Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T04:17:36.354Z
@@ -283,7 +283,32 @@ For those familiar with Steam, PlayStation, or Xbox achievement systems, this wi
 
 ## Points of Interest
 
-*(…full “Points of Interest” content here…)*
+*Content sourced from the “Battalion Wars Online Competitions PDF”
+
+- **Google Form**  
+  A link to register will be provided at each competition. It will be open during the periods indicated in the calendar.
+
+- **Google Drive**  
+  Folders created to enhance the participant experience:
+  - **Academy**  
+    Guide by FanBattalion covering each map’s details (difficulty, duration, respawn times) plus LGG strategy videos.  
+  - **Hall of Fame**  
+    - Achievements  
+    - Awards  
+    - Podiums & Rewards  
+    - Ranking  
+    - Record Book (Competitions)  
+    - Track Record (Players)  
+  - **Results & Stats**  
+    Excel spreadsheets for each competition’s results.  
+  - **Rules**  
+    PDFs of every competition’s rulebook.  
+  - **Wars Magazine**  
+    A newsletter by LGG and Aristide—player interviews, competition updates, predictions, prizes & rewards, and more.
+
+- **Drive Archive**  
+  [Battalion Wars Archives](https://drive.google.com/drive/folders/1SHCJpkkhUtK-mMnXSA59eerQqEgh8dlA?usp=drive_link)  
+  (Top‑level folder for all competition resources.) :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}
 
 ---
 
