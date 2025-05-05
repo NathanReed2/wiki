@@ -2,7 +2,7 @@
 title: Online Competitions
 description: 
 published: true
-date: 2025-05-05T17:37:21.036Z
+date: 2025-05-05T17:39:41.475Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T04:17:36.354Z
@@ -17,7 +17,6 @@ Because of our ambition and our desire to see the community grow relentlessly, w
 
 ---
 
----
 
 **Table of Contents**
  
@@ -583,11 +582,6 @@ Organizers will resolve any situation not explicitly covered by these rules.
 
 **Organizers:** FanBattalion & LGG  
 **GOOD LUCK AND HAVE FUN—GLORY AWAITS YOU!**
-
-</details>
-
-
-*Insert full markdown from **5. World Cup.pdf** here.*
 
 </details>
 
