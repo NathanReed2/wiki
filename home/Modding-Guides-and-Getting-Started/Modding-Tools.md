@@ -2,7 +2,7 @@
 title: Modding Tools
 description: A list detailing the tools used in modding Battalion Wars.
 published: true
-date: 2025-02-04T23:20:49.121Z
+date: 2025-05-25T03:02:04.276Z
 tags: tools, modding
 editor: markdown
 dateCreated: 2025-01-23T20:13:39.459Z
@@ -21,17 +21,29 @@ dateCreated: 2025-01-23T20:13:39.459Z
 
 ![screenshot_2025-01-29_135111.png](/screenshot_2025-01-29_135111.png)
 
+---
+
 -   [BW Model Viewer *A model viewer for Battalion Wars 1 and 2*](https://github.com/RenolY2/bw-model-viewer/releases)
 
 {.links-list}
 
 ![screenshot_2025-01-29_140149.png](/screenshot_2025-01-29_140149.png)
 
+---
+
+-   [Battalion Wars SFX Editor *SFX Editor for Battalion Wars 1 and 2, NOW built into the BW Level Editor*](https://github.com/RenolY2/battalion-level-editor/releases)
+
+{.links-list}
+
+![screenshot_2025-05-24_195633.png](/screenshot_2025-05-24_195633.png)
+
+---
 
 -   [BW Texture Convert *Texture converter for Battalion Wars 1 and 2*](https://github.com/RenolY2/bw-texture-conv)
 
 {.links-list}
 
+---
 
 -   [BW Restool *Resource archive packer and unpacker for Battalion Wars 1 and 2*](https://github.com/RenolY2/bw-restool/releases)
 
