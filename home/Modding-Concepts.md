@@ -2,7 +2,7 @@
 title: Modding Concepts
 description: 
 published: true
-date: 2025-02-04T23:23:17.765Z
+date: 2025-09-11T18:02:47.413Z
 tags: modding, modding documentation
 editor: markdown
 dateCreated: 2025-01-23T20:09:58.646Z
@@ -165,6 +165,8 @@ These numbers allow the game engine to reference specific text for dialogues, me
 </details>
 
 # [Infantry XML Information and Details](/en/home/Modding-Concepts/Infantry-XML-Information-and-details) 
+
+![Solar Empire Grunt](/s_grunt01.dxt1.4108.0.255.2.93.-1.png "Solar Empire - Grunt (Rifle Infantry)")![Solar Empire Anti-Armor](/s_antiarm01.dxt1.4108.0.255.2.64.-1.png "Solar Empire - Anti-Armor Trooper")
 
 ![s_grunt01.dxt1.4108.0.255.2.93.-1.png](/s_grunt01.dxt1.4108.0.255.2.93.-1.png)![s_antiarm01.dxt1.4108.0.255.2.64.-1.png](/s_antiarm01.dxt1.4108.0.255.2.64.-1.png)![s_hose01.dxt1.4108.0.255.2.72.-1.png](/s_hose01.dxt1.4108.0.255.2.72.-1.png)![s_antiair01.dxt1.4108.0.255.2.66.-1.png](/s_antiair01.dxt1.4108.0.255.2.66.-1.png)![s_parabolic01.dxt1.4108.0.255.2.78.-1.png](/s_parabolic01.dxt1.4108.0.255.2.78.-1.png)![s_hmg01.dxt1.4108.0.255.2.62.-1.png](/s_hmg01.dxt1.4108.0.255.2.62.-1.png)
 
