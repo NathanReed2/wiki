@@ -2,7 +2,7 @@
 title: Modding Guides
 description: 
 published: true
-date: 2025-03-27T04:40:00.230Z
+date: 2025-09-11T23:20:55.116Z
 tags: modding, guides
 editor: markdown
 dateCreated: 2025-01-23T20:03:45.704Z
@@ -13,95 +13,639 @@ dateCreated: 2025-01-23T20:03:45.704Z
 
 ---
 
-# Music and Sounds
+# Video, Music and Sounds
 
-We know Battalion Wars soundtrack is awesome! But what if I told you you can use any custom music throughout the whole mission or in a specific section of a mission.
+- How to change a level's music
 
-Here's a video showing where all the music, troop banter, weapon sounds, vehicle sounds, CO lines and more!
-
-https://www.youtube.com/watch?v=zNl71xYL6bs
-
-## How to change a level’s music
-
-**Tools needed:**
-
-- [DSP Audacity](https://github.com/jackoalan/audacity/releases/tag/v2.3.0)
-- [Foobar **(For listening to adp files)**](https://www.foobar2000.org/getfile/foobar2000_v1.6.10.exe)
-- [Foobar adp component](https://www.vgmpf.com/Wiki/index.php/ADPCM_Decoders)
+***The tools you need***
 
 
 
-<details>
-<summary>Example for you to try</summary>
-<br>
-  
+***The guide***
 
-<br><br>
-</details>
 
----
 
-## How to add a custom music in a mission’s section
+***An example to practise!***
 
-<details>
-<summary>Example for you to try</summary>
-<br>
-  
 
-<br><br>
-</details>
 
-## How to add custom CO audio lines
+- How to add a custom music in a section of a level
 
-<details>
-<summary>Example for you to try</summary>
-<br>
-  
+***The tools you need***
 
-<br><br>
-</details>
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to add custom CO audio lines
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to change cinematics
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to change the weapon's sound
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to change a vehicle / unit's sound
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to add custom CO sprite
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to change the CO on the menu screen
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to change the units in the menu screen
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 
 ---
 
 # Text and Strings
 
 - How to change a unit’s name
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to edit / add a new CO message
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to edit the mission name, description and tips
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 
 ---
 
 # Units and Models
 
 - How to add a unit
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to remove a unit
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to change a model
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to make an unit invisible
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to change the ammo type
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to change range / damage / HP
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to create guided ammo
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to customize the aspect of a model
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to change the recoil of vehicle units
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to add passengers to a vehicle or nest
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to add HP to an item
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to change impact maps
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to change the effects of tequila special effect
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
 
 ---
 
 # Missions and Scripts
 
 - How to create a cutscene
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to create a main / secondary objective
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to give orders to units
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to add a timer
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to add a score to Skirmish Missions
+
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to create a despawn / respawn script
+
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to switch factions
+
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to change allegiance
+
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+- How to change pathfinding
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to clear a level
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to convert a multiplayer mission into a single player mission
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to convert a singleplayer mission into a multiplayer mission
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
 
 ---
 
 # Maps and Scenarios
 
 - How to change the gravity
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
 - How to change the weather / light and brightness
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to modify the terrain (BW1)
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to change / disable boundaries
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+- How to remove the map
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to remove the minimap / radar
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
+
+
+
+- How to change the placement of the mission map pins
+
+***The tools you need***
+
+
+
+***The guide***
+
+
+
+***An example to practise!***
 
 
 
