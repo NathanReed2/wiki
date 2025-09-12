@@ -2,7 +2,7 @@
 title: Modding Guides
 description: 
 published: true
-date: 2025-09-12T05:43:44.194Z
+date: 2025-09-12T05:46:17.934Z
 tags: modding, guides
 editor: markdown
 dateCreated: 2025-01-23T20:03:45.704Z
@@ -19,7 +19,8 @@ This comprehensive guide covers everything you need to know about modding Battal
 
 # Video, Music and Sounds
 
-## How to change a level's music
+<details>
+<summary>How to change a level's music</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -30,22 +31,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to add custom music in a section of a level
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to add custom CO audio lines
+<details>
+<summary>How to add custom music in a section of a level</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -56,22 +45,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to change cinematics
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to change weapon sounds
+<details>
+<summary>How to add custom CO audio lines</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -82,22 +59,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to change vehicle/unit sounds
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to add custom CO sprites
+<details>
+<summary>How to change cinematics</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -108,9 +73,24 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
+<details>
+<summary>How to change weapon sounds</summary>
 
-## How to change the CO on the menu screen
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to change vehicle/unit sounds</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -121,9 +101,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to change units in the menu screen
+<details>
+<summary>How to add custom CO sprites</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -133,12 +114,43 @@ This comprehensive guide covers everything you need to know about modding Battal
 
 **Example to practice:**
 - [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to change the CO on the menu screen</summary>
+
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to change units in the menu screen</summary>
+
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
 
 ---
 
 # Text and Strings
 
-## How to change a unit's name
+<details>
+<summary>How to change a unit's name</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -149,9 +161,24 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
+<details>
+<summary>How to edit/add new CO messages</summary>
 
-## How to edit/add new CO messages
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to edit mission names, descriptions and tips</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -162,24 +189,14 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
-
-
-## How to edit mission names, descriptions and tips
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
+</details>
 
 ---
 
 # Units and Models
 
-## How to add a unit
+<details>
+<summary>How to add a unit</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -190,22 +207,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to remove a unit
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to change a model
+<details>
+<summary>How to remove a unit</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -216,22 +221,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to make a unit invisible
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to change ammo types
+<details>
+<summary>How to change a model</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -242,22 +235,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to change range/damage/HP
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to create guided ammo
+<details>
+<summary>How to make a unit invisible</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -268,22 +249,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to customize model appearance
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to change vehicle unit recoil
+<details>
+<summary>How to change ammo types</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -294,22 +263,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to add passengers to vehicles or nests
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to add HP to items
+<details>
+<summary>How to change range/damage/HP</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -320,9 +277,24 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
+<details>
+<summary>How to create guided ammo</summary>
 
-## How to change impact maps
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to customize model appearance</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -333,9 +305,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to change tequila special effects
+<details>
+<summary>How to change vehicle unit recoil</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -345,12 +318,71 @@ This comprehensive guide covers everything you need to know about modding Battal
 
 **Example to practice:**
 - [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to add passengers to vehicles or nests</summary>
+
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to add HP to items</summary>
+
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to change impact maps</summary>
+
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to change tequila special effects</summary>
+
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
 
 ---
 
 # Missions and Scripts
 
-## How to create a cutscene
+<details>
+<summary>How to create a cutscene</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -361,22 +393,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to create main/secondary objectives
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to give orders to units
+<details>
+<summary>How to create main/secondary objectives</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -387,22 +407,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to add a timer
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to add scores to Skirmish missions
+<details>
+<summary>How to give orders to units</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -413,22 +421,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to create despawn/respawn scripts
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to switch factions
+<details>
+<summary>How to add a timer</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -439,22 +435,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to change allegiance
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to change pathfinding
+<details>
+<summary>How to add scores to Skirmish missions</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -465,22 +449,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to clear a level
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to convert multiplayer missions to singleplayer
+<details>
+<summary>How to create despawn/respawn scripts</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -491,9 +463,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to convert singleplayer missions to multiplayer
+<details>
+<summary>How to switch factions</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -503,12 +476,85 @@ This comprehensive guide covers everything you need to know about modding Battal
 
 **Example to practice:**
 - [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to change allegiance</summary>
+
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to change pathfinding</summary>
+
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to clear a level</summary>
+
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to convert multiplayer missions to singleplayer</summary>
+
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to convert singleplayer missions to multiplayer</summary>
+
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
 
 ---
 
 # Maps and Scenarios
 
-## How to change gravity
+<details>
+<summary>How to change gravity</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -519,22 +565,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to change weather/light and brightness
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to modify terrain (BW1)
+<details>
+<summary>How to change weather/light and brightness</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -545,22 +579,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to change/disable boundaries
-
-**Tools you need:**
-- [List tools here]
-
-**The guide:**
-- [Step-by-step instructions]
-
-**Example to practice:**
-- [Practice example with specific files/levels]
-
-
-
-## How to remove the map
+<details>
+<summary>How to modify terrain (BW1)</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -571,9 +593,24 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
+<details>
+<summary>How to change/disable boundaries</summary>
 
-## How to remove the minimap/radar
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to remove the map</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -584,9 +621,10 @@ This comprehensive guide covers everything you need to know about modding Battal
 **Example to practice:**
 - [Practice example with specific files/levels]
 
+</details>
 
-
-## How to change mission map pin placement
+<details>
+<summary>How to remove the minimap/radar</summary>
 
 **Tools you need:**
 - [List tools here]
@@ -596,3 +634,19 @@ This comprehensive guide covers everything you need to know about modding Battal
 
 **Example to practice:**
 - [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to change mission map pin placement</summary>
+
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
