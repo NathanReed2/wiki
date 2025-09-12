@@ -2,657 +2,597 @@
 title: Modding Guides
 description: 
 published: true
-date: 2025-09-11T23:21:22.032Z
+date: 2025-09-12T05:40:01.703Z
 tags: modding, guides
 editor: markdown
 dateCreated: 2025-01-23T20:03:45.704Z
 ---
 
-> If you have any questions related to modding, join the [Battalion Wars discord server](https://discord.gg/aPvrTsDARJ)  and we'll be happy to help with anything you might be stuck on.
+# Battalion Wars Modding Guide
+
+> **Need help?** Join the [Battalion Wars Discord server](https://discord.gg/aPvrTsDARJ) and we'll be happy to help with anything you might be stuck on!
 {.is-info}
+
+This comprehensive guide covers everything you need to know about modding Battalion Wars. Each section includes the required tools, step-by-step instructions, and practice examples.
 
 ---
 
 # Video, Music and Sounds
 
-- How to change a level's music
+## How to change a level's music
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to add custom music in a section of a level
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to add a custom music in a section of a level
+## How to add custom CO audio lines
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to change cinematics
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to add custom CO audio lines
+## How to change weapon sounds
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to change vehicle/unit sounds
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to change cinematics
+## How to add custom CO sprites
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to change the CO on the menu screen
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to change the weapon's sound
+## How to change units in the menu screen
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to change a vehicle / unit's sound
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to add custom CO sprite
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to change the CO on the menu screen
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to change the units in the menu screen
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
+**Example to practice:**
+- [Practice example with specific files/levels]
 
 ---
 
 # Text and Strings
 
-- How to change a unit’s name
+## How to change a unit's name
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to edit/add new CO messages
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to edit / add a new CO message
+## How to edit mission names, descriptions and tips
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to edit the mission name, description and tips
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
+**Example to practice:**
+- [Practice example with specific files/levels]
 
 ---
 
 # Units and Models
 
-- How to add a unit
+## How to add a unit
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to remove a unit
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to remove a unit
+## How to change a model
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to make a unit invisible
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to change a model
+## How to change ammo types
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to change range/damage/HP
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to make an unit invisible
+## How to create guided ammo
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to customize model appearance
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to change the ammo type
+## How to change vehicle unit recoil
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to add passengers to vehicles or nests
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to change range / damage / HP
+## How to add HP to items
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to change impact maps
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to create guided ammo
+## How to change tequila special effects
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to customize the aspect of a model
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to change the recoil of vehicle units
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to add passengers to a vehicle or nest
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to add HP to an item
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to change impact maps
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to change the effects of tequila special effect
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
+**Example to practice:**
+- [Practice example with specific files/levels]
 
 ---
 
 # Missions and Scripts
 
-- How to create a cutscene
+## How to create a cutscene
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to create main/secondary objectives
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to create a main / secondary objective
+## How to give orders to units
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to add a timer
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to give orders to units
+## How to add scores to Skirmish missions
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to create despawn/respawn scripts
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to add a timer
+## How to switch factions
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to change allegiance
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to add a score to Skirmish Missions
+## How to change pathfinding
 
+**Tools you need:**
+- [List tools here]
 
-***The tools you need***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-***The guide***
+## How to clear a level
 
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
-***An example to practise!***
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
+## How to convert multiplayer missions to singleplayer
 
-- How to create a despawn / respawn script
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
-***The tools you need***
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
+## How to convert singleplayer missions to multiplayer
 
-***The guide***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
-
-***An example to practise!***
-
-
-
-- How to switch factions
-
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to change allegiance
-
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-- How to change pathfinding
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to clear a level
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to convert a multiplayer mission into a single player mission
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to convert a singleplayer mission into a multiplayer mission
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
+**Example to practice:**
+- [Practice example with specific files/levels]
 
 ---
 
 # Maps and Scenarios
 
-- How to change the gravity
+## How to change gravity
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to change weather/light and brightness
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to change the weather / light and brightness
+## How to modify terrain (BW1)
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to change/disable boundaries
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to modify the terrain (BW1)
+## How to remove the map
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
-***The guide***
+---
 
+## How to remove the minimap/radar
 
+**Tools you need:**
+- [List tools here]
 
-***An example to practise!***
+**The guide:**
+- [Step-by-step instructions]
 
+**Example to practice:**
+- [Practice example with specific files/levels]
 
+---
 
-- How to change / disable boundaries
+## How to change mission map pin placement
 
-***The tools you need***
+**Tools you need:**
+- [List tools here]
 
+**The guide:**
+- [Step-by-step instructions]
 
-
-***The guide***
-
-
-
-***An example to practise!***
-
-- How to remove the map
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to remove the minimap / radar
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-- How to change the placement of the mission map pins
-
-***The tools you need***
-
-
-
-***The guide***
-
-
-
-***An example to practise!***
-
-
-
-
-
-
-
-
-
-
+**Example to practice:**
+- [Practice example with specific files/levels]
