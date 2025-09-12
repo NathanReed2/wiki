@@ -2,63 +2,13 @@
 title: Battalion Wars Home Page
 description: 
 published: true
-date: 2025-09-12T05:58:59.883Z
+date: 2025-09-12T06:05:24.162Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T03:05:34.127Z
 ---
 
 # Battalion Wars Modding and Online Competitions Wiki 
-
-<style>
-.moving-gifs {
-  display: flex;
-  align-items: center;
-  overflow: hidden;
-  white-space: nowrap;
-  margin: 20px 0;
-}
-
-.moving-gifs img {
-  animation: moveRight 15s linear infinite;
-  margin-right: 20px;
-}
-
-.moving-gifs-bottom {
-  display: flex;
-  align-items: center;
-  overflow: hidden;
-  white-space: nowrap;
-  margin: 20px 0;
-}
-
-.moving-gifs-bottom img {
-  animation: moveRight 12s linear infinite;
-  margin-right: 20px;
-}
-
-.moving-gifs-final {
-  display: flex;
-  align-items: center;
-  overflow: hidden;
-  white-space: nowrap;
-  margin: 20px 0;
-}
-
-.moving-gifs-final img {
-  animation: moveRight 18s linear infinite;
-  margin-right: 20px;
-}
-
-@keyframes moveRight {
-  0% {
-    transform: translateX(-150px);
-  }
-  100% {
-    transform: translateX(100vw);
-  }
-}
-</style>
 
 > Welcome to the **Battalion Wars Modding and Online Competitions Wiki**! This platform is dedicated to enthusiasts of the **Battalion Wars** series, focusing on **game modifications** and **online competitive play**. Whether you're a seasoned modder, a competitive player, or new to the community, you'll find valuable resources and information here and remember to join the [Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ).
 {.is-info}
@@ -77,11 +27,12 @@ dateCreated: 2025-01-23T03:05:34.127Z
 
 ## About Battalion Wars 
 **Battalion Wars** is a real-time tactics game developed by **Kuju Entertainment** and published by **Nintendo**.
-<br>
+
 | The series includes two titles | Platform |
 |---|---|
 | <img src="/battalionwars.jpg" width="200" height="270"> | <img src="/gclogo-removebg-preview_(1).png" width="100" height="100"> |
 | <img src="/battalion_wars_2.jpg" width="200" height="270"> | <img src="/wiilogo-removebg-preview_(2).png" width="100" height="100"> |
+
 Players command armies, manage units, and engage in strategic battles across various terrains.
 
 ---
@@ -93,11 +44,15 @@ The modding community has developed **tools and guides** to enhance and customiz
 
 ## Online Competitions
 The **Battalion Wars** community actively organizes **online tournaments** and **matches**, fostering a competitive environment for players.
-📺 **YouTube Channel** – Watch gameplay of tournament macthes and highlights.  
+
+📺 **YouTube Channel** – Watch gameplay of tournament matches and highlights.  
 https://www.youtube.com/watch?v=20-2CBec-08&utm
+
 Regular events, such as the **Summer Tournament 2023**, showcased high-level gameplay and strategies.
+
 🎮 **Tournament Highlight:**
 https://www.youtube.com/watch?v=kXNLEZweWUs&utm
+
 > To participate in **online matches** or stay updated on **upcoming competitions**, join the [Battalion Wars Discord Server](https://discord.gg/aPvrTsDARJ).
 {.is-info}
 
