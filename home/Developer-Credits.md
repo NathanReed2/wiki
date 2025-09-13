@@ -2,7 +2,7 @@
 title: Developer Credits
 description: 
 published: true
-date: 2025-09-13T20:16:02.976Z
+date: 2025-09-13T20:20:13.430Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-05T05:28:07.305Z
@@ -13,64 +13,80 @@ dateCreated: 2025-02-05T05:28:07.305Z
 > This wiki exists thanks to the dedicated efforts of our Battalion Wars modding community. Every contribution, big or small, helps advance our understanding of these amazing games.
 {.is-info}
 
----
+# 🏗️ Core Contributors
 
-## Core Contributors
-
-**[Moldy LGG, and Zebra]** - *Wiki Maintainer & Community Coordinator*
+## Wiki Maintainer & Community Coordinator
+**Moldy, LGG, & Zebra**
 - Wiki setup, maintenance, and content organization
 - Community coordination and project direction
 
-**[Yoshi and Moldy]** - *File Format Research*
+## File Format Research
+**Yoshi & Moldy**
 - File documentation and analysis
 - Asset extraction techniques
 
-**[Yoshi and Moldy]** - *Game Mechanics Documentation*
+## Game Mechanics Documentation  
+**Yoshi & Moldy**
 - Unit statistics and behavior analysis
 - Level structure documentation
 
-**[Zebra]** - *Website UI Features*
-- Overall CSS Code Handling
+## Website UI Features
+**Zebra & Moldy**
+- Overall CSS code handling
+- Custom theme development
 
----
+# 🤝 Community Contributors
 
-## Community Contributors
+## Research & Documentation Team
+| Contributor | Specialization |
+|-------------|----------------|
+| **Yoshi & Moldy** | Infantry and vehicle specifications |
+| **Yoshi & Moldy** | File format reverse engineering |
+| **Yoshi & Moldy** | Level design analysis |
+| **Yoshi & Moldy** | Asset organization and cataloging |
 
-### Research & Documentation
-- **[Yoshi and Moldy]** - Infantry and vehicle specifications
-- **[Yoshi and Moldy]** - File format reverse engineering
-- **[Yoshi and Moldy]** - Level design analysis
-- **[Yoshi and Moldy]** - Asset organization and cataloging
+## Tools & Utilities Team
+| Contributor | Focus Area |
+|-------------|------------|
+| **Yoshi, Moldy & Zebra** | Community modding tools |
+| **Yoshi & Moldy** | File conversion utilities |
+| **Yoshi & Moldy** | Documentation tools |
 
-### Tools & Utilities
-- **[Yoshi, Moldy, and Zebra]** - Community modding tools
-- **[Yoshi and Moldy]** - File conversion utilities
-- **[Yoshi and Moldy]** - Documentation tools
+# 🎖️ Acknowledgments
 
----
+## Original Developers
+- **🎮 Kuju Entertainment** - Original Battalion Wars development
+- **🎯 Nintendo** - Publisher and franchise steward
 
-## Acknowledgments
-
-### Original Developers
-- **Kuju Entertainment** - Original Battalion Wars development
-- **Nintendo** - Publisher and franchise steward
-
-### Community Foundation
+## Community Foundation
 Special thanks to the Battalion Wars community members who pioneered modding research through dedicated reverse engineering and shared knowledge.
 
+# Join Our Community
+- **💬 Discord Server**: [Battalion Wars Modding Community](https://discord.gg/aPvrTsDARJ)
+- **📝 Wiki Discussions**: Use the discussion feature on any page
+- **🔬 Research**: Help document file formats, game mechanics, or create tutorials
+
+# How to Contribute
+
+<div class="tabset">
+
+## Documentation
+Write guides, document discoveries, or improve existing pages to help the community learn and grow.
+
+## Research
+Reverse engineer file formats, analyze game mechanics, and uncover the secrets of Battalion Wars.
+
+## Community Support
+Help newcomers learn modding techniques and provide guidance to fellow community members.
+
+## Testing
+Verify documentation accuracy, test community tools, and ensure our resources are reliable.
+
+</div>
+
 ---
 
-## Get Involved
-
-Want to contribute to Battalion Wars modding documentation?
-
-**Join our community:**
-- **Discord Server**: [Battalion Wars Modding Community](https://discord.gg/aPvrTsDARJ)
-- **Wiki Discussions**: Use the discussion feature on any page
-- **Research**: Help document file formats, game mechanics, or create tutorials
-
-**How to contribute:**
-1. **Documentation** - Write guides, document discoveries, or improve existing pages
-2. **Research** - Reverse engineer file formats or analyze game mechanics  
-3. **Community Support** - Help newcomers learn modding techniques
-4. **Testing** - Verify documentation accuracy and test community tools
+**Contributors Recognition**
+- Each contributor receives recognition for their specific expertise
+- Multiple specializations are acknowledged per person
+- New contributors are always welcome to join our efforts
