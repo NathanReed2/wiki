@@ -2,7 +2,7 @@
 title: Modding Tools
 description: A list detailing the tools used in modding Battalion Wars.
 published: true
-date: 2025-05-25T03:02:04.276Z
+date: 2025-09-13T08:47:18.025Z
 tags: tools, modding
 editor: markdown
 dateCreated: 2025-01-23T20:13:39.459Z
@@ -19,7 +19,7 @@ dateCreated: 2025-01-23T20:13:39.459Z
 
 {.links-list}
 
-![screenshot_2025-01-29_135111.png](/screenshot_2025-01-29_135111.png)
+![BW_LEVEL_EDITOR_2025-01-29_135111.png](/screenshot_2025-01-29_135111.png)
 
 ---
 
@@ -27,7 +27,7 @@ dateCreated: 2025-01-23T20:13:39.459Z
 
 {.links-list}
 
-![screenshot_2025-01-29_140149.png](/screenshot_2025-01-29_140149.png)
+![BW_MODEL_VIEWER_2025-01-29_140149.png](/screenshot_2025-01-29_140149.png)
 
 ---
 
@@ -35,7 +35,7 @@ dateCreated: 2025-01-23T20:13:39.459Z
 
 {.links-list}
 
-![screenshot_2025-05-24_195633.png](/screenshot_2025-05-24_195633.png)
+![BW_SFX_EDITOR_2025-05-24_195633.png](/screenshot_2025-05-24_195633.png)
 
 ---
 
