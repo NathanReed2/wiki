@@ -2,7 +2,7 @@
 title: Modding Guides
 description: 
 published: true
-date: 2025-09-12T05:46:17.934Z
+date: 2025-09-24T13:39:31.764Z
 tags: modding, guides
 editor: markdown
 dateCreated: 2025-01-23T20:03:45.704Z
@@ -549,6 +549,33 @@ This comprehensive guide covers everything you need to know about modding Battal
 
 </details>
 
+<details>
+<summary>Single Air Transport Landing Guide (BW2)</summary>
+
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
+
+<details>
+<summary>How to increase the level's memory</summary>
+
+**Tools you need:**
+- [List tools here]
+
+**The guide:**
+- [Step-by-step instructions]
+
+**Example to practice:**
+- [Practice example with specific files/levels]
+
+</details>
 ---
 
 # Maps and Scenarios
