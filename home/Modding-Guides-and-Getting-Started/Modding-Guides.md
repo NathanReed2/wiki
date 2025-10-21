@@ -2,7 +2,7 @@
 title: Modding Guides
 description: 
 published: true
-date: 2025-09-24T13:39:31.764Z
+date: 2025-10-21T23:37:58.761Z
 tags: modding, guides
 editor: markdown
 dateCreated: 2025-01-23T20:03:45.704Z
@@ -311,7 +311,7 @@ This comprehensive guide covers everything you need to know about modding Battal
 <summary>How to change vehicle unit recoil</summary>
 
 **Tools you need:**
-- [List tools here]
+- [Battalion Level Editor](https://github.com/RenolY2/battalion-level-editor/releases)
 
 **The guide:**
 - [Step-by-step instructions]
