@@ -2,7 +2,7 @@
 title: Modding Guides
 description: 
 published: true
-date: 2025-10-30T17:54:52.744Z
+date: 2025-10-30T19:44:50.375Z
 tags: modding, guides
 editor: markdown
 dateCreated: 2025-01-23T20:03:45.704Z
@@ -314,14 +314,24 @@ This comprehensive guide covers everything you need to know about modding Battal
 - **[Battalion Level Editor](https://github.com/RenolY2/battalion-level-editor/releases)**
 
 # The guide:
-**Step 1:**
-  Have a ground unit selected, then either press `CTRL + E` or on the top right side select the `Edit Object(s)` button to open the `cGroundVehicleBase`'s `Edit Object:` window.
+
+**Step 1: Load your level**
+  Open the level containing the ground vehicle whose recoil you want to modify.
   
-**Step 2:**  
-  From here you want to find the `mBase` and press the `Edit` button to open the `cGroundVehicleBase`'s `Edit Object:` window, then
+**Step 2: Open the object editor**
+  Select a ground unit, then open the `Edit Object:` window by either pressing `CTRL + E` or clicking the `Edit Object(s)` button in the top-right corner.
+  
+**Step 3: Navigate to the recoil parameter**  
+  Follow this path through the nested menus:
+  - Click `Edit` next to `mBase`
+  - Click `Edit` next to `mPhysicsBaseNewEngine`
+  - Click `Edit` next to `mPhysicsParams`
+  - Locate `mFireImpulse`
+  
+  Adjust the `mFireImpulse` value: **lower it to decrease recoil** or **raise it to increase recoil**.
 
 # Example to practice:
-- [Practice example with specific files/levels]
+Load mission 2.2 and crank up the `mFireImpulse` for the WF Artillery to an extreme value—then watch what happens!
 
 </details>
 
