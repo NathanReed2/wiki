@@ -2,7 +2,7 @@
 title: Modding Guides
 description: 
 published: true
-date: 2025-10-21T23:37:58.761Z
+date: 2025-10-30T17:54:52.744Z
 tags: modding, guides
 editor: markdown
 dateCreated: 2025-01-23T20:03:45.704Z
@@ -310,13 +310,17 @@ This comprehensive guide covers everything you need to know about modding Battal
 <details>
 <summary>How to change vehicle unit recoil</summary>
 
-**Tools you need:**
-- [Battalion Level Editor](https://github.com/RenolY2/battalion-level-editor/releases)
+# Tools you need:
+- **[Battalion Level Editor](https://github.com/RenolY2/battalion-level-editor/releases)**
 
-**The guide:**
-- [Step-by-step instructions]
+# The guide:
+**Step 1:**
+  Have a ground unit selected, then either press `CTRL + E` or on the top right side select the `Edit Object(s)` button to open the `cGroundVehicleBase`'s `Edit Object:` window.
+  
+**Step 2:**  
+  From here you want to find the `mBase` and press the `Edit` button to open the `cGroundVehicleBase`'s `Edit Object:` window, then
 
-**Example to practice:**
+# Example to practice:
 - [Practice example with specific files/levels]
 
 </details>
